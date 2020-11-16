@@ -1,0 +1,3896 @@
+# Translation of Plugins - Contact Form, Drag and Drop Form Builder for WordPress &#8211; Everest Forms - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Contact Form, Drag and Drop Form Builder for WordPress &#8211; Everest Forms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-05 10:18:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Contact Form, Drag and Drop Form Builder for WordPress &#8211; Everest Forms - Stable (latest release)\n"
+
+#: includes/fields/class-evf-field-range-slider.php:20
+msgid "Range Slider"
+msgstr "范围滑块"
+
+#: includes/admin/class-evf-admin-assets.php:254
+msgid "Are you sure you want to delete this log?"
+msgstr "您确定要删除此日志吗?"
+
+#: includes/fields/class-evf-field-select.php:201
+msgid "Enhanced select"
+msgstr "增强选择"
+
+#: includes/fields/class-evf-field-select.php:188
+msgid "Enable Enhanced Select"
+msgstr "启用增强选择"
+
+#: includes/fields/class-evf-field-select.php:178
+msgid "Check this option to enable enhanced select. It enables you to search items in the dropdown field."
+msgstr "选中此选项以启用增强选择，该功能允许用户在下拉栏中搜索项目。"
+
+#: includes/fields/class-evf-field-date-time.php:159
+msgid "Select which dates you want to disable."
+msgstr "选择需要禁用的日期。"
+
+#: includes/fields/class-evf-field-date-time.php:158
+msgid "Disable Dates"
+msgstr "禁用日期"
+
+#: includes/fields/class-evf-field-date-time.php:152
+msgid "Clear"
+msgstr "清除"
+
+#: includes/fields/class-evf-field-captcha.php:20
+msgid "Captcha"
+msgstr "图形验证码"
+
+#. translators: %1$s - Google reCAPTCHA docs url
+#: includes/admin/settings/class-evf-settings-recaptcha.php:123
+msgid "Please enter your secret key for your reCAPTCHA v3. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "请输入您的reCAPTCHA v3 密钥。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#: includes/class-evf-form-task.php:188
+msgid "Google reCAPTCHA verification failed, please try again later."
+msgstr "Google reCAPTCHA 验证失败,请稍后再试。"
+
+#. translators: %1$s: Plugin Name, %2$s: Rating link
+#: includes/admin/views/html-notice-review.php:20
+msgid "Enjoying the experience with %1$s? Please take a moment to spread your love by rating us on %2$s"
+msgstr "正在享受使用%1$s的体验？请花点时间在%2$s给我们一个好评来传播你的爱"
+
+#. translators: %s: File format
+#: includes/admin/views/html-admin-page-import.php:22
+msgid "Only %s file is allowed."
+msgstr "仅允许 %s 文件。"
+
+#: includes/admin/builder/class-evf-builder-fields.php:302
+msgid "Add Row"
+msgstr "添加行"
+
+#: includes/class-evf-template-loader.php:65
+msgid "Edit Form"
+msgstr "编辑表单"
+
+#: includes/admin/class-evf-admin-assets.php:240
+msgid "Uplift your form experience to the next level."
+msgstr "提升您的表单体验到一个新的水平。"
+
+#: includes/admin/class-evf-admin-assets.php:239
+msgid "Untitled Form"
+msgstr "无标题表格"
+
+#: includes/admin/class-evf-admin-assets.php:238
+msgid "Continue"
+msgstr "继续"
+
+#: includes/admin/class-evf-admin-assets.php:237
+msgid "is a Premium Template"
+msgstr "是一个高级模板"
+
+#: includes/admin/class-evf-admin-assets.php:236
+msgid "This template requires premium addons. Please upgrade to the Premium plan to unlock all these awesome Templates."
+msgstr "此模板需要高级附加组件。请升级到高级计划解锁所有高级模板。"
+
+#: includes/admin/class-evf-admin-assets.php:233
+msgid "You must provide a Form name"
+msgstr "您必须输入一个表单名称"
+
+#: includes/admin/class-evf-admin-assets.php:232
+msgid "Give it a name."
+msgstr "为表单命名。"
+
+#: includes/admin/class-evf-admin-assets.php:210
+msgid "Please select a form which you want to export."
+msgstr "请选择需要导出的表单。"
+
+#: includes/admin/class-evf-admin-assets.php:153
+msgid "Form name can't be empty."
+msgstr "表单名称不能为空。"
+
+#: includes/admin/class-evf-admin-assets.php:152
+msgid "Empty Form Name"
+msgstr "空白表单名称"
+
+#: includes/admin/class-evf-admin-assets.php:151
+msgid "Remove Image"
+msgstr "删除图片"
+
+#: includes/admin/class-evf-admin-assets.php:150
+msgid "Use Image"
+msgstr "使用图像"
+
+#: includes/admin/class-evf-admin-assets.php:149
+msgid "Choose an image"
+msgstr "选择图像"
+
+#: includes/admin/class-evf-admin-assets.php:136
+msgid "Activate Plugins"
+msgstr "激活插件"
+
+#: includes/admin/class-evf-admin-assets.php:135
+msgid "Install & Activate"
+msgstr "安装 & 激活"
+
+#: includes/admin/class-evf-admin-assets.php:134
+msgid "Activating"
+msgstr "正在激活"
+
+#: includes/admin/class-evf-admin-assets.php:133
+msgid "Installing"
+msgstr "正在安装"
+
+#: includes/admin/class-evf-admin-assets.php:97
+msgid "Updating Templates"
+msgstr "更新模板"
+
+#: includes/admin/builder/class-evf-builder-settings.php:324
+msgid "Enables form submission without reloading the page."
+msgstr "启用表单无刷新提交"
+
+#: includes/admin/builder/class-evf-builder-settings.php:321
+msgid "Enable Ajax Form Submission"
+msgstr "启用AJAX表单提交"
+
+#: includes/admin/class-evf-admin-import-export.php:153
+msgid "Please select json file to import form data."
+msgstr "请选择json文件以导入表单数据."
+
+#: includes/admin/class-evf-admin-import-export.php:146
+msgid "Invalid file format. Only JSON File Allowed."
+msgstr "文件格式无效。仅允许 JSON 文件。"
+
+#: includes/admin/class-evf-admin-import-export.php:132
+#: includes/admin/class-evf-admin-import-export.php:139
+msgid "Invalid file content. Please export file from Everest Forms plugin."
+msgstr "文件内容无效，请使用Everest Forms 插件导出的文件。"
+
+#: includes/admin/class-evf-admin-import-export.php:125
+msgid "Imported Successfully."
+msgstr "成功导入."
+
+#: includes/admin/settings/class-evf-settings-validation.php:92
+msgid "Enter the message for the checkbox selection limit."
+msgstr "输入复选框选择限制的消息。"
+
+#: includes/admin/settings/class-evf-settings-validation.php:91
+msgid "Checkbox Selection Limit"
+msgstr "复选框选择限制"
+
+#: includes/admin/settings/class-evf-settings-validation.php:83
+msgid "Enter the message for confirm field value."
+msgstr "输入确认字段值的消息。"
+
+#: includes/admin/settings/class-evf-settings-validation.php:82
+msgid "Confirm Value"
+msgstr "确认值"
+
+#: includes/admin/views/html-admin-page-tools.php:14
+msgid "Import"
+msgstr "导入"
+
+#: includes/admin/views/html-admin-page-entries-view.php:203
+msgid "Referer Link:"
+msgstr "推荐链接："
+
+#: includes/admin/views/html-admin-page-import.php:26
+msgid "Import Form"
+msgstr "导入表单"
+
+#: includes/admin/views/html-admin-page-import.php:16
+msgid "No file selected"
+msgstr "没有选择文件"
+
+#: includes/admin/views/html-admin-page-import.php:15
+msgid "files selected"
+msgstr "已选的文件"
+
+#: includes/admin/views/html-admin-page-import.php:13
+msgid "Select JSON file to import the form."
+msgstr "选择 JSON 文件以导入表单。"
+
+#: includes/admin/views/html-admin-page-import.php:12
+msgid "Import Everest Forms"
+msgstr "导入 Everest Forms"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:151
+msgid "Show more details"
+msgstr "显示详情"
+
+#. translators: %s: Number of failed installs
+#: includes/admin/views/html-admin-page-builder-setup.php:148
+msgid "%s installs failed."
+msgstr "%s 安装失败。"
+
+#. translators: %s: Number of failed installs
+#: includes/admin/views/html-admin-page-builder-setup.php:143
+msgid "%s install failed."
+msgstr "%s 安装失败。"
+
+#. translators: %s: Number of plugins
+#: includes/admin/views/html-admin-page-builder-setup.php:133
+msgid "%s plugins successfully installed."
+msgstr "%s 插件已成功安装。"
+
+#. translators: %s: Number of plugins
+#: includes/admin/views/html-admin-page-builder-setup.php:126
+msgid "%s plugin successfully installed."
+msgstr "%s 插件已成功安装。"
+
+#: includes/admin/class-evf-admin-assets.php:94
+#: includes/admin/views/html-admin-page-builder-setup.php:80
+msgid "Get Started"
+msgstr "快速入门"
+
+#: includes/admin/class-evf-admin-assets.php:96
+#: includes/admin/views/html-admin-page-builder-setup.php:57
+msgid "Pro"
+msgstr "专业版"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:49
+msgid "Something went wrong. Please refresh your templates."
+msgstr "出错了，请刷新模版。"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:43
+msgid "Couldn't connect to templates server. Please reload again."
+msgstr "无法连接到模板服务器。请刷新页面重试。"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:36
+msgid "Premium"
+msgstr "高级版"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:33
+msgid "Free"
+msgstr "免费"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:30
+msgid "All"
+msgstr "所有"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:25
+msgid "Refresh Templates"
+msgstr "刷新模板"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:23
+msgid "Add New Form"
+msgstr "添加新表单"
+
+#: includes/admin/views/html-admin-page-tools.php:15
+#: includes/admin/views/html-admin-page-export.php:29
+msgid "Export"
+msgstr "导出"
+
+#: includes/admin/views/html-admin-page-export.php:24
+msgid "You need to create a form before you can use form export."
+msgstr "您需要先创建表单才能使用表单导出。"
+
+#: includes/admin/views/html-admin-page-export.php:18
+msgid "Select a form"
+msgstr "选择一个表单"
+
+#: includes/admin/views/html-admin-page-export.php:18
+msgid "Select form"
+msgstr "选择表单"
+
+#: includes/admin/views/html-admin-page-export.php:13
+msgid "Export your forms along with their settings as JSON file."
+msgstr "将表单及其设置导出为 JSON 文件。"
+
+#: includes/admin/views/html-admin-page-export.php:12
+msgid "Export Everest Forms with Settings"
+msgstr "Export Everest Forms 表单和设置"
+
+#. translators: %d: number of entries, %s: entries status
+#: includes/admin/class-evf-admin-entries-table-list.php:479
+msgid "%1$d entry successfully marked as %2$s."
+msgid_plural "%1$d entries successfully marked as %2$s."
+msgstr[0] "%1$d 个条目成功标记为 %2$s。"
+
+#. translators: %d: number of entries, %s: entries status
+#: includes/admin/class-evf-admin-entries-table-list.php:463
+msgid "%1$d entry successfully %2$s."
+msgid_plural "%1$d entries successfully %2$s."
+msgstr[0] "%1$d 个条目成功 %2$s。"
+
+#: includes/admin/class-evf-admin-menus.php:203
+msgid "Tools"
+msgstr "工具"
+
+#: includes/class-evf-ajax.php:379
+msgid "This form template requires the following addons."
+msgstr "此表单模板需要以下附加组件。"
+
+#: includes/class-evf-ajax.php:358
+msgid "No Plan specified."
+msgstr "未指定计划。"
+
+#: includes/class-evf-ajax.php:337
+msgid "Addon can not be activate. Please try again."
+msgstr "无法激活加载组件。请重试。"
+
+#: includes/class-evf-ajax.php:326
+msgid "No Addon specified."
+msgstr "未指定加载项。"
+
+#: includes/class-evf-frontend-scripts.php:310
+msgid "Sorry, something went wrong. Please try again"
+msgstr "抱歉，出了一些问题。请再试一次"
+
+#: includes/class-evf-frontend-scripts.php:302
+msgid "{count} of {limit} max words."
+msgstr "{count} 个字数，最多{limit}个."
+
+#: includes/class-evf-frontend-scripts.php:301
+msgid "{count} of {limit} max characters."
+msgstr "{count} 个字符，最多{limit}个."
+
+#: includes/class-evf-frontend-scripts.php:290
+#: includes/admin/settings/class-evf-settings-validation.php:88
+msgid "Field values do not match."
+msgstr "字段值不匹配。"
+
+#: includes/fields/class-evf-field-checkbox.php:444
+#: includes/class-evf-frontend-scripts.php:291
+#: includes/admin/settings/class-evf-settings-validation.php:97
+msgid "You have exceeded number of allowed selections: {#}."
+msgstr "您已超过允许的选择数：{#}。"
+
+#: includes/fields/class-evf-field-checkbox.php:272
+msgid "Check this option to limit the number of checkboxes a user can select."
+msgstr "选中此选项可限制用户可以选择的复选框数。"
+
+#: includes/fields/class-evf-field-checkbox.php:271
+msgid "Choice Limit"
+msgstr "选项限制"
+
+#: includes/fields/class-evf-field-checkbox.php:251
+#: includes/fields/class-evf-field-radio.php:217
+msgid "Check this option to randomize the order of the choices."
+msgstr "选中此选项可随机化选项的顺序。"
+
+#: includes/fields/class-evf-field-checkbox.php:250
+#: includes/fields/class-evf-field-radio.php:216
+msgid "Randomize Choices"
+msgstr "随机选项"
+
+#. translators: %s - Choice Number.
+#: includes/fields/class-evf-field-checkbox.php:173
+msgid "Choice %s"
+msgstr "选项%s"
+
+#: includes/fields/class-evf-field-checkbox.php:170
+msgid "Checked"
+msgstr "如果要默认选中它，请选择\"打开\"。"
+
+#: includes/fields/class-evf-field-textarea.php:107
+#: includes/fields/class-evf-field-text.php:108
+msgid "Words Count"
+msgstr "字数"
+
+#: includes/fields/class-evf-field-textarea.php:106
+#: includes/fields/class-evf-field-text.php:107
+msgid "Characters"
+msgstr "字符数"
+
+#: includes/fields/class-evf-field-textarea.php:73
+#: includes/fields/class-evf-field-text.php:74
+msgid "Check this option to limit text length by characters or words count."
+msgstr "选中此选项可按字符或字数限制文本长度。"
+
+#: includes/fields/class-evf-field-textarea.php:72
+#: includes/fields/class-evf-field-text.php:73
+msgid "Limit Length"
+msgstr "长度限制"
+
+#: includes/abstracts/class-evf-form-fields.php:1239
+msgid "Layout"
+msgstr "布局"
+
+#: includes/abstracts/class-evf-form-fields.php:1230
+msgid "Inline"
+msgstr "行内"
+
+#: includes/abstracts/class-evf-form-fields.php:1229
+msgid "Three Columns"
+msgstr "三栏"
+
+#: includes/abstracts/class-evf-form-fields.php:1228
+msgid "Two Columns"
+msgstr "两栏"
+
+#: includes/abstracts/class-evf-form-fields.php:1227
+msgid "One Column"
+msgstr "一栏"
+
+#: includes/abstracts/class-evf-form-fields.php:1225
+msgid "Select the column layout for displaying field choices."
+msgstr "选择用于显示字段选择的列布局。"
+
+#: includes/abstracts/class-evf-form-fields.php:840
+msgid "Check this option to enable using images with the choices."
+msgstr "选中此选项以启用带有选项的图像使用."
+
+#: includes/abstracts/class-evf-form-fields.php:839
+msgid "Use image choices"
+msgstr "使用图像选项"
+
+#: includes/abstracts/class-evf-form-fields.php:830
+msgid "For best results, images should be square and at least 200 × 160 pixels or smaller."
+msgstr "为获得最佳效果，图像应为正方形，至少为 200 × 160 像素或更小。"
+
+#: includes/abstracts/class-evf-form-fields.php:804
+msgid "Change image"
+msgstr "更换图像"
+
+#: includes/abstracts/class-evf-form-fields.php:803
+#: includes/admin/builder/class-evf-builder-settings.php:104
+msgid "Remove"
+msgstr "删除"
+
+#: includes/abstracts/class-evf-form-fields.php:796
+msgid "Upload Image"
+msgstr "上传"
+
+#: includes/abstracts/class-evf-form-fields.php:655
+msgid "Required Field Message"
+msgstr "必需的字段信息"
+
+#: includes/abstracts/class-evf-form-fields.php:604
+#: includes/abstracts/class-evf-form-fields.php:649
+msgid "Enter a message to show for this field if it's required."
+msgstr "输入所需表单字段的消息"
+
+#: includes/abstracts/class-evf-form-fields.php:591
+msgid "Enter a message to show for Country if it's required."
+msgstr "输入要显示的国家/地区（如果需要）的邮件。"
+
+#: includes/abstracts/class-evf-form-fields.php:582
+msgid "Enter a message to show for Zip/Postal Code if it's required."
+msgstr "如果需要，输入要显示的邮政编码的邮件。"
+
+#: includes/abstracts/class-evf-form-fields.php:581
+msgid "Zip / Postal Code"
+msgstr "邮政编码"
+
+#: includes/abstracts/class-evf-form-fields.php:573
+msgid "Enter a message to show for State/Province/Region if it's required."
+msgstr "如果需要，请输入用于州/省/地区的邮件。"
+
+#: includes/abstracts/class-evf-form-fields.php:572
+msgid "State / Province / Region"
+msgstr "州/省/地区"
+
+#: includes/abstracts/class-evf-form-fields.php:564
+msgid "Enter a message to show for City if it's required."
+msgstr "输入要显示\"城市\"的邮件（如果需要）。"
+
+#: includes/abstracts/class-evf-form-fields.php:555
+msgid "Enter a message to show for Address Line 1 if it's required."
+msgstr "如果需要，输入要显示地址行 1 的消息。"
+
+#: includes/abstracts/class-evf-form-fields.php:554
+msgid "Address Line 1"
+msgstr "地址行1"
+
+#: includes/abstracts/class-evf-form-fields.php:542
+msgid "Enter a message to show for this row if it's required."
+msgstr "如果需要，输入要显示此行的消息。"
+
+#: includes/class-evf-frontend-scripts.php:289
+msgid "Click to accept this suggestion."
+msgstr "单击以接受该建议。"
+
+#: includes/fields/class-evf-field-date-time.php:329
+msgid "Select maximum date."
+msgstr "选择最大日期。"
+
+#: includes/fields/class-evf-field-date-time.php:328
+msgid "Maximum Date"
+msgstr "最大日期"
+
+#: includes/fields/class-evf-field-date-time.php:307
+msgid "Select minium date."
+msgstr "选择最小日期。"
+
+#: includes/fields/class-evf-field-date-time.php:306
+msgid "Minimum Date"
+msgstr "最短日期"
+
+#: includes/fields/class-evf-field-date-time.php:296
+msgid "Check this option to set min max date."
+msgstr "选中此选项可设置最小最大日期。"
+
+#: includes/fields/class-evf-field-date-time.php:295
+msgid "Enable Min Max date."
+msgstr "启用最小最大日期。"
+
+#: includes/fields/class-evf-field-date-time.php:201
+msgid "Choose a desire date localization to display."
+msgstr "选择要显示的期望日期本地化。"
+
+#: includes/fields/class-evf-field-date-time.php:200
+msgid "Date Localization"
+msgstr "日期本地化"
+
+#: includes/fields/class-evf-field-date-time.php:185
+msgid "Select your desire date mode."
+msgstr "选择您想要的日期模式。"
+
+#: includes/fields/class-evf-field-date-time.php:184
+msgid "Date Mode"
+msgstr "日期模式"
+
+#: includes/class-evf-frontend-scripts.php:288
+#: includes/admin/settings/class-evf-settings-validation.php:79
+msgid "Did you mean {suggestion}?"
+msgstr "你是说 {suggestion}吗？"
+
+#: includes/admin/settings/class-evf-settings-validation.php:74
+msgid "Enter the message for the valid email suggestion"
+msgstr "输入有效电子邮件建议的邮件"
+
+#: includes/admin/settings/class-evf-settings-validation.php:73
+msgid "Email Suggestion"
+msgstr "电子邮件建议"
+
+#: includes/admin/class-evf-admin-welcome.php:103
+msgid "Read our step by step guide on how to create your first form."
+msgstr "阅读我们关于如何创建您的第一个表单的步骤指南。"
+
+#: includes/admin/class-evf-admin-welcome.php:102
+msgid "Read The Full Guide"
+msgstr "阅读完整的指南"
+
+#: includes/admin/class-evf-admin-welcome.php:94
+msgid "Let's get started with the first contact forms for your site."
+msgstr "让我们开始您的站点的第一个联系人表单。"
+
+#: includes/admin/class-evf-admin-welcome.php:93
+msgid "Create Your First Form"
+msgstr "创建您的第一个表单"
+
+#: includes/admin/class-evf-admin-welcome.php:84
+msgid "Watch how to create your first form with Everest Forms"
+msgstr "观看如何创建您的第一个表单与Everest Forms"
+
+#: includes/admin/class-evf-admin-welcome.php:81
+msgid "Thank you for choosing Everest Forms, the most powerful and easy drag & drop WordPress form builder in the market."
+msgstr "感谢选择 Everest Forms，市场上最强大最方便的拖拽式 WordPress 表单创建工具。"
+
+#: includes/admin/class-evf-admin-welcome.php:72
+msgid "Getting Started"
+msgstr "入门指南"
+
+#: includes/admin/class-evf-admin-welcome.php:33
+#: includes/admin/class-evf-admin-welcome.php:34
+#: includes/admin/class-evf-admin-welcome.php:80
+msgid "Welcome to Everest Forms"
+msgstr "欢迎来到Everest Forms"
+
+#: includes/fields/class-evf-field-email.php:408
+msgid "Confirmation Email do not match."
+msgstr "确认电子邮件不匹配。"
+
+#: includes/fields/class-evf-field-email.php:227
+msgid "Enter text for the confirmation field placeholder."
+msgstr "输入确认字段占位符的文本。"
+
+#: includes/fields/class-evf-field-email.php:226
+msgid "Confirmation Placeholder Text"
+msgstr "确认占位符文本"
+
+#: includes/fields/class-evf-field-email.php:204
+msgid "Check to enable email confirmation."
+msgstr "选中以启用电子邮件确认。"
+
+#: includes/fields/class-evf-field-email.php:203
+msgid "Enable Email Confirmation"
+msgstr "启用电子邮件确认"
+
+#: includes/fields/class-evf-field-email.php:117
+#: includes/fields/class-evf-field-email.php:270
+msgid "Confirm Email"
+msgstr "确认电子邮件"
+
+#: includes/admin/class-evf-admin-assets.php:207
+msgid "Please enter in meta key with alphanumeric characters, dashes and underscores."
+msgstr "请输入元密钥与字母数字字符，破折号和下划线。"
+
+#: includes/admin/views/html-notice-review.php:26
+msgid "I already did"
+msgstr "我已经做了"
+
+#: includes/admin/views/html-notice-review.php:25
+msgid "Remind me later"
+msgstr "稍后提醒我"
+
+#: includes/admin/views/html-notice-review.php:24
+msgid "Sure, I'd love to!"
+msgstr "当然，我很乐意！"
+
+#: includes/admin/views/html-notice-review.php:16
+msgid "Please help us spread the word"
+msgstr "请帮助我们传播这个消息"
+
+#: includes/class-evf-form-block.php:89
+msgid "Show Description"
+msgstr "显示描述"
+
+#: includes/class-evf-form-block.php:88
+msgid "Show Title"
+msgstr "显示标题"
+
+#. translators: %d - New form entries count.
+#: includes/admin/class-evf-admin-entries.php:389
+msgid "%d new entry since you last checked."
+msgid_plural "%d new entries since you last checked."
+msgstr[0] "%d 自你上次检查以来的新条目。"
+
+#: includes/admin/builder/class-evf-builder-fields.php:85
+msgid "Form not found."
+msgstr "表单未找到。"
+
+#: includes/admin/class-evf-admin-assets.php:148
+#: includes/admin/builder/class-evf-builder-settings.php:391
+msgid "Turn on Email settings to manage your email notifications."
+msgstr "打开\"电子邮件\"设置以管理电子邮件通知。"
+
+#: includes/admin/builder/class-evf-builder-settings.php:162
+msgid "Message that shows up if the form is disabled."
+msgstr "如果表单已禁用，显示此消息。"
+
+#: includes/admin/builder/class-evf-builder-settings.php:158
+msgid "Form disabled message"
+msgstr "表单禁用消息"
+
+#: includes/admin/builder/class-evf-builder-settings.php:150
+msgid "Give the description to this form"
+msgstr "撰写此表单的描述"
+
+#: includes/admin/builder/class-evf-builder-settings.php:146
+msgid "Form description"
+msgstr "表单描述"
+
+#: includes/shortcodes/class-evf-shortcode-form.php:745
+#: includes/admin/builder/class-evf-builder-settings.php:161
+msgid "This form is disabled."
+msgstr "此表单已禁用。"
+
+#: includes/class-evf-ajax.php:287
+msgid "An error occurred while saving the form."
+msgstr "保存表单时出错。"
+
+#: includes/class-evf-ajax.php:286
+msgid "Form not found"
+msgstr "没有找到表单"
+
+#: includes/class-evf-form-task.php:226
+msgid "Everest Forms honeypot field triggered."
+msgstr "触发Everest Forms honeypot字段。"
+
+#: includes/class-evf-form-block.php:83
+msgid "survey"
+msgstr "调查"
+
+#: includes/class-evf-form-block.php:82
+msgid "contact"
+msgstr "联系"
+
+#: includes/class-evf-form-block.php:81
+msgid "form"
+msgstr "表单"
+
+#: includes/admin/views/html-notice-update.php:25
+msgid "Update Everest Forms Database"
+msgstr "更新Everest Forms数据库"
+
+#: includes/admin/views/html-notice-update.php:21
+msgid "Everest Forms has been updated! To keep things running smoothly, we have to update your database to the newest version. The database update process runs in the background and may take a little while, so please be patient."
+msgstr "Everest Forms 插件已经更新！为了表单的正常运行，我们必须将您的数据库更新到最新版本。此更新将在后台运行，这可能需要一段时间，请耐心等待。"
+
+#: includes/admin/views/html-notice-update.php:18
+msgid "Everest Forms database update required"
+msgstr "需要更新Everest Forms数据库"
+
+#: includes/admin/class-evf-admin-assets.php:209
+msgid "Maximum value is smaller than Minimum value."
+msgstr "最大值小于最小值。"
+
+#: includes/admin/class-evf-admin-assets.php:208
+msgid "Minimum value is greater than Maximum value."
+msgstr "最小值大于最大值。"
+
+#: includes/admin/class-evf-admin-assets.php:172
+msgid "Enable Stripe Payment gateway in payments section to use this field."
+msgstr "启用支付部分的Stripe支付网关来使用此字段。"
+
+#: includes/admin/class-evf-admin-assets.php:171
+msgid "Please enable Stripe"
+msgstr "请启用Stripe"
+
+#. translators: %s - all fields smart tag.
+#: includes/admin/builder/class-evf-builder-settings.php:556
+msgid "To display all form fields, use the %s Smart Tag."
+msgstr "要显示所有表单域，请使用%s智能标记。"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:548
+msgid "Enter the message of the email. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "输入电子邮件的邮件。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#. translators: %1$s - General Settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:530
+msgid "Enter the subject of the email. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "输入电子邮件的主题。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:511
+msgid "Enter the reply to email address where you want the email to be received when this email is replied. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "输入您希望接收回复此邮件的电子邮件地址。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:493
+msgid "Enter the Email address from which you want to send Email. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "输入要从中发送电子邮件的电子邮件地址。<a href=\"%s\" target=\"_blank\">了解更多</a>"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:475
+msgid "Enter the From Name to be displayed in Email. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "输入要在电子邮件中显示的发送自名称。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:456
+msgid "Enter Bcc recipient's email address (comma separated) to receive form entry notifications."
+msgstr "请输入收件人的电邮地址(逗号分隔)，以接收收件通知。"
+
+#: includes/admin/builder/class-evf-builder-settings.php:453
+msgid "Bcc Address"
+msgstr "密送地址"
+
+#: includes/admin/builder/class-evf-builder-settings.php:439
+msgid "Enter Cc recipient's email address (comma separated) to receive form entry notifications."
+msgstr "输入抄送收件人的电子邮件地址(逗号分隔)以接收表单输入通知。"
+
+#: includes/admin/builder/class-evf-builder-settings.php:436
+msgid "Cc Address"
+msgstr "抄送地址"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:421
+msgid "Enter the recipient's email address (comma separated) to receive form entry notifications. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "输入收件人的电子邮件地址（以逗号分隔）以接收表单输入通知。<a href=\"%s\" target=\"_blank\">了解更多信息</a>"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:336
+msgid "Disable storing form entries. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "禁用存储表单条目。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:312
+msgid "Enable Google reCaptcha. Make sure the site key and secret key is set in settings page. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "启用谷歌reCaptcha。确保在设置页面中设置了站点密钥和密钥。<a href=\"%s\" target=\"_blank\">了解更多</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:308
+msgid "Enable Google Checkbox reCAPTCHA v2"
+msgstr "启用谷歌复选框reCAPTCHA v2"
+
+#: includes/admin/builder/class-evf-builder-settings.php:308
+msgid "Enable Google Invisible reCAPTCHA v2"
+msgstr "启用谷歌隐藏的reCAPTCHA v2"
+
+#: includes/admin/builder/class-evf-builder-settings.php:308
+msgid "Enable Google reCAPTCHA v3"
+msgstr "启用谷歌reCAPTCHA v3"
+
+#: includes/admin/builder/class-evf-builder-settings.php:294
+msgid "Enable anti-spam honeypot"
+msgstr "使反垃圾邮件蜜罐"
+
+#: includes/admin/builder/class-evf-builder-settings.php:284
+msgid "Enter CSS class names for submit button. Multiple class names should be separated with spaces."
+msgstr "为提交按钮输入CSS类名。多个类名应该用空格分隔。"
+
+#: includes/admin/builder/class-evf-builder-settings.php:281
+msgid "Submit button class"
+msgstr "提交按钮类"
+
+#: includes/admin/builder/class-evf-builder-settings.php:273
+msgid "Enter the submit button text that you would like the button to display while the form submission is processing."
+msgstr "输入您希望按钮在处理表单提交时显示的提交按钮文本。"
+
+#: includes/shortcodes/class-evf-shortcode-form.php:74
+#: includes/admin/builder/class-evf-builder-settings.php:272
+msgid "Processing&hellip;"
+msgstr "正在处理&hellip;"
+
+#: includes/admin/builder/class-evf-builder-settings.php:270
+msgid "Submit button processing text"
+msgstr "提交按钮处理中文本"
+
+#: includes/admin/builder/class-evf-builder-settings.php:262
+msgid "Enter desired text for submit button."
+msgstr "输入提交按钮显示的文本。"
+
+#: includes/admin/builder/class-evf-builder-settings.php:253
+msgid "Submit Button"
+msgstr "提交按钮"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:250
+msgid "Enter CSS class names for the form wrapper. Multiple class names should be separated with spaces. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "输入表单父级元素的 CSS 类名称。多个类名称应与空格分隔。<a href=\"%s\" target=\"_blank\">了解更多</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:234
+msgid "Choose design template for the Form"
+msgstr "为表单选择设计模板"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:197
+msgid "Choose where to redirect after form submission. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "选择表单提交后重定向的位置。<a href=\"%s\" target=\"_blank\">了解更多信息</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:183
+msgid "Automatically scroll to the submission message"
+msgstr "自动滚动到提交消息"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:175
+msgid "Success message that shows up after submitting form. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "提交表单后显示的成功消息。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:138
+msgid "Give a name to this form"
+msgstr "为表单取一个名称"
+
+#: includes/admin/class-evf-admin-notices.php:122
+msgid "You don&#8217;t have permission to do this."
+msgstr "您无权执行此操作。"
+
+#: includes/admin/settings/class-evf-settings-email.php:65
+msgid "Email addresses for Cc and Bcc can be applied from the form notification settings."
+msgstr "可以从表单通知设置中应用抄送和密件抄送的电子邮件地址。"
+
+#: includes/admin/settings/class-evf-settings-email.php:64
+msgid "Enable the use of Cc and Bcc email addresses"
+msgstr "使用抄送和密送电子邮件地址"
+
+#: includes/admin/settings/class-evf-settings-email.php:63
+msgid "Enable copies"
+msgstr "启用副本"
+
+#: includes/admin/settings/class-evf-settings-email.php:57
+msgid "Plain text"
+msgstr "以纯文本粘贴"
+
+#: includes/admin/settings/class-evf-settings-email.php:53
+msgid "HTML Template"
+msgstr "HTML模板"
+
+#: includes/admin/settings/class-evf-settings-email.php:49
+msgid "Determine which format of email to send. HTML Template is default."
+msgstr "选择要发送的电子邮件格式。默认为HTML 模板。"
+
+#. translators: %1$s - Google reCAPTCHA docs url
+#: includes/admin/settings/class-evf-settings-recaptcha.php:113
+msgid "Please enter your site key for your reCAPTCHA v3. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "请输入reCAPTCHA v3 的站点密钥。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:104
+msgid "Enable Invisible reCAPTCHA."
+msgstr "启用隐藏式 reCaptcha"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:102
+msgid "Invisible reCAPTCHA"
+msgstr "隐形reCAPTCHA"
+
+#. translators: %1$s - Google reCAPTCHA docs url
+#: includes/admin/settings/class-evf-settings-recaptcha.php:75
+#: includes/admin/settings/class-evf-settings-recaptcha.php:95
+msgid "Please enter your secret key for your reCAPTCHA v2. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "请输入reCAPTCHA v2的密钥。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#. translators: %1$s - Google reCAPTCHA docs url
+#: includes/admin/settings/class-evf-settings-recaptcha.php:65
+#: includes/admin/settings/class-evf-settings-recaptcha.php:85
+msgid "Please enter your site key for your reCAPTCHA v2. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "请输入reCAPTCHAv2的站点密钥。<a href=\"%1$s\" target=\"_blank\">了解更多</a>"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:56
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:55
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA v2"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:50
+msgid "Choose the type of reCAPTCHA for this site key."
+msgstr "选择此站点的 reCAPTCHA 密钥类型。"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:49
+msgid "reCAPTCHA type"
+msgstr "reCAPTCHA类型"
+
+#. translators: %1$s - Google reCAPTCHA docs url
+#: includes/admin/settings/class-evf-settings-recaptcha.php:45
+msgid "<p>Google's reCAPTCHA is a free service that protects your website from spam and abuse while letting valid users pass through with ease.</p><p>reCAPTCHA uses an advanced risk analysis engine and adaptive challenges to keep automated software from engaging in abusive activities on your site.</p><p>Sites already using v2 reCAPTCHA will need to create new site keys before switching to the Invisible reCAPTCHA or v3 reCAPTCHA.</p><p><a href=\"%1$s\" target=\"_blank\">Read our documentation</a> for step-by-step instructions.</p>"
+msgstr "<p>Google 的 reCAPTCHA 是一项免费服务，可保护您的网站免受垃圾邮件和滥用，同时让有效用户轻松通过验证。</p><p>reCAPTCHA 使用高级风险分析引擎和自适应挑战，以防止自动化软件在您的网站上从事滥用活动。</p><p>已经使用 v2 reCAPTCHA 的网站需要在切换到不可见的重新CAPTCHA或 v3 重新CAPTCHA之前创建新的站点密钥。</p><p><a href=\"%1$s\" target=\"_blank\">阅读我们的文档</a>，了解详细说明。</p>"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:42
+msgid "Google reCAPTCHA Integration"
+msgstr "Google reCAPTCHA 整合"
+
+#: includes/evf-core-functions.php:120
+msgid "action_args should not be overwritten when calling evf_get_template."
+msgstr "调用evf_get_template时，不应覆盖action_args。"
+
+#: includes/abstracts/class-evf-form-fields.php:1125
+msgid "Enter CSS class names for this field container. Multiple class names should be separated with spaces."
+msgstr "输入此字段容器的 CSS 类名称。多个类名称使用空格分隔。"
+
+#: includes/abstracts/class-evf-form-fields.php:499
+msgid "Check this option to mark the field required. A form will not submit unless all required fields are provided."
+msgstr "选中此选项可标记必填字段。除非提供了所有必填字段，否则表单将不会提交。"
+
+#: includes/abstracts/class-evf-form-fields.php:389
+#: includes/evf-core-functions.php:1916
+msgid "Enter text for the form field label. This is recommended and can be hidden in the Advanced Settings."
+msgstr "为表单字段标签输入文本。这是推荐的，可以隐藏在高级设置中。"
+
+#: includes/fields/class-evf-field-date-time.php:391
+msgid "24 H"
+msgstr "24小时"
+
+#: includes/fields/class-evf-field-date-time.php:390
+msgid "12 H"
+msgstr "12小时"
+
+#: includes/fields/class-evf-field-date-time.php:377
+msgid "30 minutes"
+msgstr "30分钟"
+
+#: includes/fields/class-evf-field-date-time.php:376
+msgid "15 minutes"
+msgstr "15分钟"
+
+#: includes/fields/class-evf-field-date-time.php:362
+msgid "Choose time interval and format to display."
+msgstr "选择要显示的时间间隔和格式。"
+
+#: includes/fields/class-evf-field-date-time.php:361
+msgid "Time interval and format"
+msgstr "时间间隔和格式"
+
+#: includes/fields/class-evf-field-date-time.php:284
+msgid "Check this option to set current date as default."
+msgstr "选中此选项可将当前日期设置为默认值。"
+
+#: includes/fields/class-evf-field-date-time.php:283
+msgid "Default to current date."
+msgstr "默认为当前日期。"
+
+#: includes/fields/class-evf-field-date-time.php:129
+msgid "Choose a desire date format to display."
+msgstr "选择要显示的所需日期格式。"
+
+#: includes/fields/class-evf-field-date-time.php:128
+msgid "Date Format"
+msgstr "日期格式"
+
+#: includes/fields/class-evf-field-date-time.php:114
+msgid "Advanced date and time formatting options."
+msgstr "高级日期和时间格式选项。"
+
+#: includes/fields/class-evf-field-date-time.php:113
+msgid "Date & Time Format"
+msgstr "日期和时间格式"
+
+#: includes/fields/class-evf-field-date-time.php:84
+msgid "Both"
+msgstr "全部"
+
+#: includes/fields/class-evf-field-date-time.php:83
+#: includes/fields/class-evf-field-date-time.php:354
+msgid "Time"
+msgstr "时间"
+
+#: includes/fields/class-evf-field-date-time.php:71
+msgid "Select a format for the date field."
+msgstr "选择日期字段的格式。"
+
+#: includes/fields/class-evf-field-date-time.php:70
+msgid "Format"
+msgstr "格式"
+
+#: includes/fields/class-evf-field-date-time.php:20
+msgid "Date / Time"
+msgstr "日期 / 时间"
+
+#. translators: %s - maximum value.
+#: includes/fields/class-evf-field-number.php:301
+msgid "Please enter a value less than or equal to %s"
+msgstr "请输入一个小于或等于的值 %s"
+
+#. translators: %s - minimum value.
+#: includes/fields/class-evf-field-number.php:297
+msgid "Please enter a value greater than or equal to %s"
+msgstr "请输入一个大于或等于 %s 的值"
+
+#: includes/fields/class-evf-field-number.php:147
+msgid "Maximum value user is allowed to enter."
+msgstr "允许用户输入最大值。"
+
+#: includes/fields/class-evf-field-number.php:146
+msgid "Max Value"
+msgstr "最大值"
+
+#: includes/fields/class-evf-field-number.php:109
+msgid "Minimum value user is allowed to enter."
+msgstr "允许用户输入最小值。"
+
+#: includes/fields/class-evf-field-number.php:108
+msgid "Min Value"
+msgstr "最小值"
+
+#: includes/fields/class-evf-field-number.php:71
+msgid "Allows users to enter specific legal number intervals."
+msgstr "允许用户输入特定的合法数字间隔。"
+
+#: includes/fields/class-evf-field-number.php:70
+msgid "Step"
+msgstr "步"
+
+#: includes/fields/class-evf-field-credit-card.php:20
+msgid "Credit Card"
+msgstr "信用卡"
+
+#: includes/fields/class-evf-field-signature.php:20
+msgid "Signature"
+msgstr "签名"
+
+#. translators: %s: Entry ID
+#: includes/admin/views/html-admin-page-entries-view.php:42
+msgid "%1$s: Entry #%2$s"
+msgstr "%1$s: 提交 #%2$s"
+
+#: includes/evf-core-functions.php:1890
+msgid "Survey Fields"
+msgstr "调查字段"
+
+#: includes/fields/class-evf-field-scale-rating.php:20
+msgid "Scale Rating"
+msgstr "等级评分"
+
+#: includes/fields/class-evf-field-rating.php:20
+msgid "Rating"
+msgstr "评分"
+
+#: includes/fields/class-evf-field-likert.php:20
+msgid "Likert"
+msgstr "Likert"
+
+#: includes/class-evf-smart-tags.php:42
+msgid "Referrer URL"
+msgstr "推荐链接网址"
+
+#: includes/class-evf-smart-tags.php:41
+msgid "User Email"
+msgstr "用户邮箱"
+
+#: includes/class-evf-smart-tags.php:40
+msgid "User Name"
+msgstr "用户名"
+
+#: includes/class-evf-smart-tags.php:39
+msgid "User ID"
+msgstr "用户ID"
+
+#: includes/class-evf-smart-tags.php:36
+msgid "Page ID"
+msgstr "页面 ID"
+
+#: includes/class-evf-smart-tags.php:35
+msgid "Page URL"
+msgstr "页面网址"
+
+#: includes/class-evf-smart-tags.php:34
+msgid "Page Title"
+msgstr "页面标题"
+
+#: includes/class-evf-smart-tags.php:33
+msgid "Site URL"
+msgstr "站点URL"
+
+#: includes/class-evf-smart-tags.php:32
+msgid "Site Name"
+msgstr "站点名称"
+
+#: includes/class-evf-smart-tags.php:31
+msgid "Site Admin Email"
+msgstr "网站管理员电子邮件"
+
+#: includes/admin/evf-admin-functions.php:426
+msgid "Others"
+msgstr "其他"
+
+#: includes/admin/evf-admin-functions.php:422
+msgid "Available Fields"
+msgstr "可用字段"
+
+#. translators: %s: Form Name
+#: includes/admin/builder/class-evf-builder-settings.php:355
+#: includes/admin/builder/class-evf-builder-settings.php:528
+#: includes/templates/contact.php:77
+msgid "New Form Entry %s"
+msgstr "新表单条目 %s"
+
+#. Description of the plugin
+msgid "Drag and Drop contact form builder to easily create simple to complex forms for any purpose. Lightweight, Beautiful design, responsive and more."
+msgstr "拖放contact form builder可轻松创建简单到复杂的表单，以用于任何目的。轻巧、美观的设计、灵敏等。"
+
+#: includes/admin/class-evf-admin-assets.php:190
+msgid "You must provide a Email nickname"
+msgstr "您必须提供电子邮件昵称"
+
+#: includes/admin/class-evf-admin-assets.php:189
+msgid "Eg: Support Email"
+msgstr "如：技术支持电子邮件"
+
+#: includes/admin/class-evf-admin-assets.php:188
+msgid "Enter a Email nickname"
+msgstr "输入电子邮件昵称"
+
+#: includes/admin/builder/class-evf-builder-settings.php:89
+msgid "Email Notifications"
+msgstr "邮件通知"
+
+#: includes/admin/builder/class-evf-builder-settings.php:85
+msgid "Add New Email"
+msgstr "﻿新电子邮件"
+
+#: includes/evf-update-functions.php:156
+#: includes/admin/builder/class-evf-builder-settings.php:366
+msgid "User Notification"
+msgstr "用户通知"
+
+#: includes/evf-update-functions.php:140
+#: includes/admin/builder/class-evf-builder-settings.php:77
+#: includes/admin/builder/class-evf-builder-settings.php:349
+#: includes/admin/builder/class-evf-builder-settings.php:405
+#: includes/class-evf-form-task.php:558 includes/templates/contact.php:71
+msgid "Admin Notification"
+msgstr "管理员通知"
+
+#. translators: %s: Add-on title
+#: includes/admin/views/html-admin-page-addons.php:126
+msgid "Install %s now"
+msgstr "立即安装%s"
+
+#. translators: %s: Add-on title
+#: includes/admin/views/html-admin-page-addons.php:108
+msgid "Activate %s now"
+msgstr "立即激活%s"
+
+#. translators: %s: Add-on title
+#: includes/admin/views/html-admin-page-addons.php:90
+msgid "Deactivate %s now"
+msgstr "禁用 %s 现在"
+
+#: includes/class-evf-form-block.php:86
+msgid "Form Settings"
+msgstr "表单设置"
+
+#: includes/class-evf-form-block.php:85
+msgid "Select a Form"
+msgstr "选择一个表单"
+
+#: includes/class-evf-form-block.php:79
+msgid "Select and display one of your forms."
+msgstr "选择并显示一个表单。"
+
+#: includes/admin/builder/class-evf-builder-settings.php:507
+msgid "Reply To"
+msgstr "回复给"
+
+#. translators: %s - Form name.
+#: includes/class-evf-template-loader.php:193
+msgid "%s &ndash; Preview"
+msgstr "%S&ndash；预览"
+
+#: includes/class-evf-privacy.php:87
+msgid "Please see the <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp Privacy Policy</a> for more details."
+msgstr "详情见 <a href=\"https://mailchimp.com/legal/privacy/\"> mailchimp 隐私政策 </a>。"
+
+#: includes/class-evf-privacy.php:86
+msgid "We send beautiful email through MailChimp. When processing emails, some of your data will be passed to MailChimp, including information required to process or support the email marketing services, such as the name, email address and any other information that you intend to pass or collect including all collected information through subscription."
+msgstr "我们通过mailchimp发送漂亮的电子邮件。在处理电子邮件时，您的一些数据将传递给mailchimp，包括处理或支持电子邮件营销服务所需的信息，如姓名、电子邮件地址和您打算传递或收集的任何其他信息，包括通过subscip收集的所有信息。。"
+
+#: includes/class-evf-privacy.php:85
+msgid "In this subsection you should list which third party modules you’re using to increase functionality on your site since these may handle customer data. We’ve included MailChimp as an example, but you should remove this if you’re not using MailChimp."
+msgstr "在本小节中，您应该列出您正在使用哪些第三方模块来增加站点上的功能，因为这些模块可以处理客户数据。我们以mailchimp为例，但如果不使用mailchimp，则应该删除它。"
+
+#: includes/class-evf-privacy.php:84
+msgid "Available Modules"
+msgstr "可用模块"
+
+#: includes/class-evf-privacy.php:83
+msgid "Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Privacy Policy</a> for more details."
+msgstr "请查看<a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal 的隐私政策</a>以了解更多。"
+
+#: includes/class-evf-privacy.php:82
+msgid "We accept payments through PayPal. When processing payments, some of your data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information."
+msgstr "我们接受通过 PayPal 付款。在处理付款时，您的部分数据将被传递给 PayPal，包括处理或支持付款所需的信息，如购买总额和账单信息。"
+
+#: includes/class-evf-privacy.php:81
+msgid "In this subsection you should list which third party payment processors you’re using to take payments on your site since these may handle customer data. We’ve included PayPal as an example, but you should remove this if you’re not using PayPal."
+msgstr "在本小节中，您应该列出您使用哪些第三方支付处理程序在您的网站上进行支付，因为这些处理程序可以处理客户数据。我们已经把PayPal作为一个例子，但是如果你不使用PayPal，你应该删除它。"
+
+#: includes/class-evf-privacy.php:79
+msgid "We share information with third parties who help us provide our orders and store services to you; for example --"
+msgstr "我们与帮助我们向您提供订单和商店服务的第三方共享信息，例如："
+
+#: includes/class-evf-privacy.php:78
+msgid "In this section you should list who you’re sharing data with, and for what purpose. This could include, but may not be limited to, analytics, marketing, payment gateways, shipping providers, and third party embeds."
+msgstr "在本小节中，您应该列出您与谁共享数据，以及出于何种目的。这可能包括但不限于分析、市场营销、付款网关、配送服务提供商和第三方嵌入服务。"
+
+#: includes/class-evf-privacy.php:77
+msgid "What we share with others"
+msgstr "我们与他人分享的东西"
+
+#: includes/class-evf-privacy.php:76
+msgid "Our team members have access to this information to help fulfill entries and support you."
+msgstr "我们的团队成员可以访问这些信息，以帮助完成条目并支持您。"
+
+#: includes/class-evf-privacy.php:74
+msgid "Customer information like your name, email and address information."
+msgstr "客户信息，如您的姓名、电子邮件和地址信息。"
+
+#: includes/class-evf-privacy.php:73
+msgid "Form submission information and other details related to it"
+msgstr "表单提交信息和其他相关详细信息"
+
+#: includes/class-evf-privacy.php:71
+msgid "Members of our team have access to the information you provide us. For example, both Administrators and Editors can access:"
+msgstr "我们团队的成员可以访问您提供给我们的信息。例如，管理员和编辑器都可以访问："
+
+#: includes/class-evf-privacy.php:70
+msgid "Who on our team has access"
+msgstr "在我们的团队中有谁可以访问"
+
+#: includes/class-evf-privacy.php:69
+msgid "We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store form submission information for XXX years for geolocating and marketting purposes. This includes your name, address, email, phone number."
+msgstr "一般来说，只要我们出于收集和使用信息的目的而需要这些信息，我们就存储关于您的信息，并且我们在法律上不需要继续保存这些信息。例如，为了地理定位和营销目的，我们将保存XXX年的表单提交信息。这包括您的姓名、地址、电子邮件、电话号码。"
+
+#: includes/class-evf-privacy.php:68
+msgid "If you create an account, we will store your name, address, email and phone number, which will be used to populate the form fields for future submissions."
+msgstr "如果您创建了一个帐户，我们将存储您的姓名、地址、电子邮件和电话号码，这些信息将用于填充表单字段以备将来提交。"
+
+#: includes/class-evf-privacy.php:66
+msgid "Or any other service the built form was created to comply with and it’s necessary information"
+msgstr "或任何其他服务，构建的表单是为了遵守和它的必要信息而创建的"
+
+#: includes/class-evf-privacy.php:65
+msgid "Send you marketing messages, if you choose to receive them"
+msgstr "如果您选择接收营销信息，请发送给您。"
+
+#: includes/class-evf-privacy.php:64
+msgid "Improve our form offerings"
+msgstr "改进我们的表单产品"
+
+#: includes/class-evf-privacy.php:63
+msgid "Comply with any legal obligations we have, such as calculating taxes"
+msgstr "遵守我们应遵守的任何法律义务，例如计算税金。"
+
+#: includes/class-evf-privacy.php:62
+msgid "Set up your account for our site"
+msgstr "为我们的网站设置帐户"
+
+#: includes/class-evf-privacy.php:61
+msgid "Process payments and prevent fraud"
+msgstr "处理付款和防止欺诈"
+
+#: includes/class-evf-privacy.php:60
+msgid "Respond to your requests, including transaction details and complaints"
+msgstr "响应您的请求，包括交易详情和投诉"
+
+#: includes/class-evf-privacy.php:59
+msgid "Send you information about your account and order"
+msgstr "发送您的帐户和订单信息"
+
+#: includes/class-evf-privacy.php:57
+msgid "When you fill up a form, we’ll ask you to provide information including your name, address, email, phone number, credit card/payment details and optional account information like username and password and any other form fields available in the form builder. We’ll use this information for purposes, such as, to:"
+msgstr "填写表单时，我们会要求您提供信息，包括您的姓名，地址，电子邮件，电话号码，信用卡/付款明细以及可选的帐户信息（例如用户名和密码）以及表单构建器中可用的任何其他表单字段。 我们会将这些信息用于以下目的："
+
+#: includes/class-evf-privacy.php:56
+msgid "Note: you may want to further detail your cookie policy, and link to that section from here."
+msgstr "注意：您可能想要进一步详细说明您的cookie策略，并从这里链接到该部分。"
+
+#: includes/class-evf-privacy.php:55
+msgid "We’ll also use cookies to keep track of form elements while you’re browsing our site."
+msgstr "当您浏览我们的网站时，我们还将使用cookie来跟踪表单元素。"
+
+#: includes/class-evf-privacy.php:53
+msgid "Transaction Details: we’ll ask you to enter this so we can, for instance, provide subscription packs, and keep track of your payment details for subscription packs!"
+msgstr "交易详细信息：我们将要求您输入此信息，以便我们（例如）提供订阅包，并跟踪订阅包的付款详细信息！"
+
+#: includes/class-evf-privacy.php:52
+msgid "Location, IP address and browser type: we’ll use this for purposes like geolocating users and reducing fraudulent activities."
+msgstr "位置、IP地址和浏览器类型：我们会将其用于定位用户和减少欺诈活动等目的。"
+
+#: includes/class-evf-privacy.php:51
+msgid "Form Fields Data: Forms Fields data includes the available field types when creating a form. We’ll use this to, for example, collect informations like Name, Email and other available fields."
+msgstr "表单域数据：表单域数据包括创建表单时可用的字段类型。例如，我们将使用它来收集诸如姓名、电子邮件和其他可用字段等信息。"
+
+#: includes/class-evf-privacy.php:49
+msgid "While you visit our site, we’ll track:"
+msgstr "当您访问我们的网站时，我们会追踪:"
+
+#: includes/class-evf-privacy.php:48
+msgid "What we collect and store"
+msgstr "我们收集和存储什么"
+
+#: includes/class-evf-privacy.php:47
+msgid "We collect information about you during the form submission process on our site."
+msgstr "我们会在我们网站上的表单提交过程中收集有关您的信息。"
+
+#: includes/class-evf-privacy.php:45
+msgid "This sample policy includes the basics around what personal data you may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your form will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "此示例策略包括有关您可能收集、存储和共享的个人数据以及哪些人可以访问这些数据的基础知识。根据启用的设置和使用的附加插件，表单共享的特定信息将有所不同。我们建议您在决定在隐私政策中披露哪些信息时咨询律师。"
+
+#: includes/admin/class-evf-admin-assets.php:95
+#: includes/admin/views/html-admin-page-builder-setup.php:81
+#: includes/admin/views/html-admin-page-builder.php:55
+#: includes/admin/class-evf-admin-forms-table-list.php:142
+msgid "Preview"
+msgstr "预览"
+
+#: includes/fields/class-evf-field-select.php:37
+msgid "Option 3"
+msgstr "选项3"
+
+#: includes/fields/class-evf-field-image-upload.php:20
+msgid "Image Upload"
+msgstr "图片上传"
+
+#. translators: 1: entry date 2: entry time
+#: includes/export/class-evf-entry-csv-exporter.php:325
+#: includes/export/class-evf-entry-csv-exporter.php:342
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/class-evf-smart-tags.php:38
+#: includes/export/class-evf-entry-csv-exporter.php:86
+msgid "User IP Address"
+msgstr "用户IP地址"
+
+#: includes/export/class-evf-entry-csv-exporter.php:85
+msgid "User Device"
+msgstr "用户设备"
+
+#: includes/export/class-evf-entry-csv-exporter.php:81
+msgid "Date Created GMT"
+msgstr "创建日期 GMT"
+
+#: includes/export/class-evf-entry-csv-exporter.php:67
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-evf-ajax.php:605
+msgid "Connection missing"
+msgstr "连接丢失"
+
+#: includes/class-evf-ajax.php:551 includes/class-evf-ajax.php:591
+msgid "Missing data"
+msgstr "缺失数据"
+
+#. translators: %s: empty meta data
+#: includes/class-evf-ajax.php:267
+msgid "Please add Meta key for fields: %s"
+msgstr "请为字段 %s 添加元键"
+
+#: includes/class-evf-ajax.php:265
+msgid "Meta Key missing"
+msgstr "缺少元密钥"
+
+#. translators: %s: Refresh URI
+#: includes/admin/views/html-admin-page-addons.php:49
+msgid "Make your forms even more robust with our premium addons. Missing any addons? Click the %1$sRefresh Add-ons%2$s button above."
+msgstr "使用我们的高级附加组件，让您的表单功能更加强大。附加组件没有显示？单击上面的 %1$s 刷新附加组件%2$s 按钮。"
+
+#: includes/admin/settings/class-evf-settings-integrations.php:59
+msgid "Integrations"
+msgstr "集成"
+
+#: includes/admin/settings/class-evf-settings-integrations.php:25
+msgid "Integration"
+msgstr "整合"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:561
+msgid "Export CSV"
+msgstr "导出为 CSV"
+
+#: includes/admin/class-evf-admin-assets.php:113
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "搜索中......"
+
+#: includes/admin/class-evf-admin-assets.php:112
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "载入更多结果......"
+
+#: includes/admin/class-evf-admin-assets.php:111
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "您只能选择%qty%项"
+
+#: includes/admin/class-evf-admin-assets.php:110
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "您只能选择1项"
+
+#: includes/admin/class-evf-admin-assets.php:109
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "请删除%qty%个字符"
+
+#: includes/admin/class-evf-admin-assets.php:108
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "请删除1个字符"
+
+#: includes/admin/class-evf-admin-assets.php:107
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "请至少输入%qty%个字符"
+
+#: includes/admin/class-evf-admin-assets.php:106
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "请输入至少一个字符"
+
+#: includes/admin/class-evf-admin-assets.php:105
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "加载失败"
+
+#: includes/class-evf-frontend-scripts.php:293
+#: includes/admin/class-evf-admin-assets.php:104
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "没有匹配项"
+
+#: includes/abstracts/class-evf-settings-api.php:674
+msgid "Select none"
+msgstr "未选择"
+
+#: includes/abstracts/class-evf-settings-api.php:674
+msgid "Select all"
+msgstr "全选"
+
+#. translators: %s - link to a site.
+#: templates/emails/footer-default.php:45
+msgid "Sent from %s"
+msgstr "从%s发送"
+
+#: includes/fields/class-evf-field-url.php:20
+msgid "Website / URL"
+msgstr "网站 / URL"
+
+#: includes/fields/class-evf-field-payment-total.php:20
+#: includes/fields/class-evf-field-payment-quantity.php:19
+msgid "Total"
+msgstr "总计"
+
+#: includes/fields/class-evf-field-title.php:20
+msgid "Section Title"
+msgstr "章节标题"
+
+#: includes/fields/class-evf-field-text.php:135
+msgid "See Examples & Docs"
+msgstr "参见示例和文档"
+
+#: includes/fields/class-evf-field-text.php:134
+msgid "Enter your custom input mask."
+msgstr "输入自定义输入掩码。"
+
+#: includes/fields/class-evf-field-text.php:133
+msgid "Input Mask"
+msgstr "输入掩码"
+
+#: includes/fields/class-evf-field-text.php:20
+msgid "Single Line Text"
+msgstr "单行文字"
+
+#: includes/fields/class-evf-field-payment-single.php:20
+msgid "Single Item"
+msgstr "单项"
+
+#: includes/fields/class-evf-field-select.php:20
+msgid "Dropdown"
+msgstr "下拉"
+
+#: includes/fields/class-evf-field-payment-radio.php:20
+#: includes/fields/class-evf-field-radio.php:20
+msgid "Multiple Choice"
+msgstr "多项选择"
+
+#: includes/fields/class-evf-field-phone.php:20
+msgid "Phone"
+msgstr "电话"
+
+#: includes/fields/class-evf-field-password.php:20
+msgid "Password"
+msgstr "密码"
+
+#: includes/fields/class-evf-field-html.php:20
+msgid "Custom HTML"
+msgstr "自定义HTML"
+
+#: includes/fields/class-evf-field-hidden.php:20
+msgid "Hidden Field"
+msgstr "隐藏字段"
+
+#: includes/fields/class-evf-field-file-upload.php:20
+msgid "File Upload"
+msgstr "文件上传"
+
+#: includes/fields/class-evf-field-country.php:20
+#: includes/abstracts/class-evf-form-fields.php:590
+msgid "Country"
+msgstr "国家/地区"
+
+#: includes/abstracts/class-evf-form-fields.php:563
+msgid "City"
+msgstr "城市"
+
+#: includes/fields/class-evf-field-address.php:20
+msgid "Address"
+msgstr "地址"
+
+#: includes/evf-core-functions.php:1889
+msgid "Payment Fields"
+msgstr "付款字段"
+
+#: includes/evf-core-functions.php:1808
+msgid "Zimbabwe"
+msgstr "津巴布韦"
+
+#: includes/evf-core-functions.php:1807
+msgid "Zambia"
+msgstr "赞比亚"
+
+#: includes/evf-core-functions.php:1806
+msgid "Yemen"
+msgstr "也门"
+
+#: includes/evf-core-functions.php:1805
+msgid "Western Sahara"
+msgstr "西撒哈拉"
+
+#: includes/evf-core-functions.php:1804
+msgid "Wallis and Futuna"
+msgstr "瓦利斯群岛和富图纳群岛"
+
+#: includes/evf-core-functions.php:1803
+msgid "Virgin Islands (U.S.)"
+msgstr "美属维尔京群岛"
+
+#: includes/evf-core-functions.php:1802
+msgid "Virgin Islands (British)"
+msgstr "维尔京群岛（英属）"
+
+#: includes/evf-core-functions.php:1801
+msgid "Viet Nam"
+msgstr "越南"
+
+#: includes/evf-core-functions.php:1800
+msgid "Venezuela (Bolivarian Republic of)"
+msgstr "委内瑞拉（玻利瓦尔共和国）"
+
+#: includes/evf-core-functions.php:1799
+msgid "Vatican City State"
+msgstr "梵蒂冈城国"
+
+#: includes/evf-core-functions.php:1798
+msgid "Vanuatu"
+msgstr "瓦努阿图"
+
+#: includes/evf-core-functions.php:1797
+msgid "Uzbekistan"
+msgstr "乌兹别克斯坦"
+
+#: includes/evf-core-functions.php:1796
+msgid "Uruguay"
+msgstr "乌拉圭"
+
+#: includes/evf-core-functions.php:1795
+msgid "United States Minor Outlying Islands"
+msgstr "美国小离岛"
+
+#: includes/evf-core-functions.php:1794
+msgid "United States of America"
+msgstr "美国"
+
+#: includes/evf-core-functions.php:1793
+msgid "United Kingdom of Great Britain and Northern Ireland"
+msgstr "大不列颠及北爱尔兰联合王国"
+
+#: includes/evf-core-functions.php:1792
+msgid "United Arab Emirates"
+msgstr "阿拉伯联合酋长国"
+
+#: includes/evf-core-functions.php:1791
+msgid "Ukraine"
+msgstr "乌克兰"
+
+#: includes/evf-core-functions.php:1790
+msgid "Uganda"
+msgstr "乌干达"
+
+#: includes/evf-core-functions.php:1789
+msgid "Tuvalu"
+msgstr "图瓦卢"
+
+#: includes/evf-core-functions.php:1788
+msgid "Turks and Caicos Islands"
+msgstr "特克斯和凯科斯群岛"
+
+#: includes/evf-core-functions.php:1787
+msgid "Turkmenistan"
+msgstr "土库曼斯坦"
+
+#: includes/evf-core-functions.php:1786
+msgid "Turkey"
+msgstr "土耳其"
+
+#: includes/evf-core-functions.php:1785
+msgid "Tunisia"
+msgstr "突尼斯"
+
+#: includes/evf-core-functions.php:1784
+msgid "Trinidad and Tobago"
+msgstr "特里尼达和多巴哥"
+
+#: includes/evf-core-functions.php:1783
+msgid "Tonga"
+msgstr "汤加"
+
+#: includes/evf-core-functions.php:1782
+msgid "Tokelau"
+msgstr "托克劳"
+
+#: includes/evf-core-functions.php:1781
+msgid "Togo"
+msgstr "多哥"
+
+#: includes/evf-core-functions.php:1780
+msgid "Timor-Leste"
+msgstr "东帝汶"
+
+#: includes/evf-core-functions.php:1779
+msgid "Thailand"
+msgstr "泰国"
+
+#: includes/evf-core-functions.php:1778
+msgid "Tanzania (United Republic of)"
+msgstr "坦桑尼亚联合共和国)"
+
+#: includes/evf-core-functions.php:1777
+msgid "Tajikistan"
+msgstr "塔吉克斯坦"
+
+#: includes/evf-core-functions.php:1776
+msgid "Taiwan, Province of China"
+msgstr "中国台湾"
+
+#: includes/evf-core-functions.php:1775
+msgid "Syrian Arab Republic"
+msgstr "阿拉伯叙利亚共和国"
+
+#: includes/evf-core-functions.php:1774
+msgid "Switzerland"
+msgstr "瑞士"
+
+#: includes/evf-core-functions.php:1773
+msgid "Sweden"
+msgstr "瑞典"
+
+#: includes/evf-core-functions.php:1772
+msgid "Swaziland"
+msgstr "斯威士兰"
+
+#: includes/evf-core-functions.php:1771
+msgid "Svalbard and Jan Mayen"
+msgstr "斯瓦尔巴岛和扬马延岛"
+
+#: includes/evf-core-functions.php:1770
+msgid "Suriname"
+msgstr "苏里南"
+
+#: includes/evf-core-functions.php:1769
+msgid "Sudan"
+msgstr "苏丹"
+
+#: includes/evf-core-functions.php:1768
+msgid "Sri Lanka"
+msgstr "斯里兰卡"
+
+#: includes/evf-core-functions.php:1767
+msgid "Spain"
+msgstr "西班牙"
+
+#: includes/evf-core-functions.php:1766
+msgid "South Sudan"
+msgstr "南苏丹"
+
+#: includes/evf-core-functions.php:1765
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "南乔治亚和南桑威奇群岛"
+
+#: includes/evf-core-functions.php:1764
+msgid "South Africa"
+msgstr "南非"
+
+#: includes/evf-core-functions.php:1763
+msgid "Somalia"
+msgstr "索马里"
+
+#: includes/evf-core-functions.php:1762
+msgid "Solomon Islands"
+msgstr "所罗门群岛"
+
+#: includes/evf-core-functions.php:1761
+msgid "Slovenia"
+msgstr "斯洛文尼亚"
+
+#: includes/evf-core-functions.php:1760
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+#: includes/evf-core-functions.php:1759
+msgid "Sint Maarten (Dutch part)"
+msgstr "圣马丁岛（荷兰的一部分）"
+
+#: includes/evf-core-functions.php:1758
+msgid "Singapore"
+msgstr "新加坡"
+
+#: includes/evf-core-functions.php:1757
+msgid "Sierra Leone"
+msgstr "塞拉利昂"
+
+#: includes/evf-core-functions.php:1756
+msgid "Seychelles"
+msgstr "塞舌尔"
+
+#: includes/evf-core-functions.php:1755
+msgid "Serbia"
+msgstr "塞尔维亚"
+
+#: includes/evf-core-functions.php:1754
+msgid "Senegal"
+msgstr "塞内加尔"
+
+#: includes/evf-core-functions.php:1753
+msgid "Saudi Arabia"
+msgstr "沙特阿拉伯"
+
+#: includes/evf-core-functions.php:1752
+msgid "Sao Tome and Principe"
+msgstr "圣多美和普林西比"
+
+#: includes/evf-core-functions.php:1751
+msgid "San Marino"
+msgstr "圣马力诺"
+
+#: includes/evf-core-functions.php:1750
+msgid "Samoa"
+msgstr "萨摩亚"
+
+#: includes/evf-core-functions.php:1749
+msgid "Saint Vincent and the Grenadines"
+msgstr "圣文森特和格林纳丁斯"
+
+#: includes/evf-core-functions.php:1748
+msgid "Saint Pierre and Miquelon"
+msgstr "圣皮埃尔和密克隆"
+
+#: includes/evf-core-functions.php:1747
+msgid "Saint Martin (French part)"
+msgstr "圣马丁（法国部分）"
+
+#: includes/evf-core-functions.php:1746
+msgid "Saint Lucia"
+msgstr "圣卢西亚"
+
+#: includes/evf-core-functions.php:1745
+msgid "Saint Kitts and Nevis"
+msgstr "圣基茨和尼维斯"
+
+#: includes/evf-core-functions.php:1744
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr "圣赫勒拿，阿森松岛和特里斯坦达库尼亚"
+
+#: includes/evf-core-functions.php:1743
+msgid "Saint Barthélemy"
+msgstr "圣巴泰勒米"
+
+#: includes/evf-core-functions.php:1742
+msgid "Rwanda"
+msgstr "卢旺达"
+
+#: includes/evf-core-functions.php:1741
+msgid "Russian Federation"
+msgstr "俄罗斯联邦"
+
+#: includes/evf-core-functions.php:1740
+msgid "Romania"
+msgstr "罗马尼亚"
+
+#: includes/evf-core-functions.php:1739
+msgid "Réunion"
+msgstr "留尼汪岛"
+
+#: includes/evf-core-functions.php:1738
+msgid "Qatar"
+msgstr "卡塔尔"
+
+#: includes/evf-core-functions.php:1737
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+#: includes/evf-core-functions.php:1736
+msgid "Portugal"
+msgstr "葡萄牙"
+
+#: includes/evf-core-functions.php:1735
+msgid "Poland"
+msgstr "波兰"
+
+#: includes/evf-core-functions.php:1734
+msgid "Pitcairn"
+msgstr "皮特凯恩"
+
+#: includes/evf-core-functions.php:1733
+msgid "Philippines"
+msgstr "菲律宾"
+
+#: includes/evf-core-functions.php:1732
+msgid "Peru"
+msgstr "秘鲁"
+
+#: includes/evf-core-functions.php:1731
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+#: includes/evf-core-functions.php:1730
+msgid "Papua New Guinea"
+msgstr "巴布亚新几内亚"
+
+#: includes/evf-core-functions.php:1729
+msgid "Panama"
+msgstr "巴拿马"
+
+#: includes/evf-core-functions.php:1728
+msgid "Palestine (State of)"
+msgstr "巴勒斯坦(国家)"
+
+#: includes/evf-core-functions.php:1727
+msgid "Palau"
+msgstr "帕劳"
+
+#: includes/evf-core-functions.php:1726
+msgid "Pakistan"
+msgstr "巴基斯坦"
+
+#: includes/evf-core-functions.php:1725
+msgid "Oman"
+msgstr "阿曼"
+
+#: includes/evf-core-functions.php:1724
+msgid "Norway"
+msgstr "挪威"
+
+#: includes/evf-core-functions.php:1723
+msgid "Northern Mariana Islands"
+msgstr "北马里亚纳群岛"
+
+#: includes/evf-core-functions.php:1722
+msgid "Norfolk Island"
+msgstr "诺福克岛"
+
+#: includes/evf-core-functions.php:1721
+msgid "Niue"
+msgstr "纽埃"
+
+#: includes/evf-core-functions.php:1720
+msgid "Nigeria"
+msgstr "尼日利亚"
+
+#: includes/evf-core-functions.php:1719
+msgid "Niger"
+msgstr "尼日尔"
+
+#: includes/evf-core-functions.php:1718
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+#: includes/evf-core-functions.php:1717
+msgid "New Zealand"
+msgstr "新西兰"
+
+#: includes/evf-core-functions.php:1716
+msgid "New Caledonia"
+msgstr "新喀里多尼亚"
+
+#: includes/evf-core-functions.php:1715
+msgid "Netherlands"
+msgstr "荷兰"
+
+#: includes/evf-core-functions.php:1714
+msgid "Nepal"
+msgstr "尼泊尔"
+
+#: includes/evf-core-functions.php:1713
+msgid "Nauru"
+msgstr "瑙鲁"
+
+#: includes/evf-core-functions.php:1712
+msgid "Namibia"
+msgstr "纳米比亚"
+
+#: includes/evf-core-functions.php:1711
+msgid "Myanmar"
+msgstr "缅甸"
+
+#: includes/evf-core-functions.php:1710
+msgid "Mozambique"
+msgstr "莫桑比克"
+
+#: includes/evf-core-functions.php:1709
+msgid "Morocco"
+msgstr "摩洛哥"
+
+#: includes/evf-core-functions.php:1708
+msgid "Montserrat"
+msgstr "蒙特塞拉特"
+
+#: includes/evf-core-functions.php:1707
+msgid "Montenegro"
+msgstr "黑山"
+
+#: includes/evf-core-functions.php:1706
+msgid "Mongolia"
+msgstr "蒙古国"
+
+#: includes/evf-core-functions.php:1705
+msgid "Monaco"
+msgstr "摩纳哥"
+
+#: includes/evf-core-functions.php:1704
+msgid "Moldova (Republic of)"
+msgstr "摩尔多瓦（共和国）"
+
+#: includes/evf-core-functions.php:1703
+msgid "Micronesia (Federated States of)"
+msgstr "密克罗尼西亚（联邦）"
+
+#: includes/evf-core-functions.php:1702
+msgid "Mexico"
+msgstr "墨西哥"
+
+#: includes/evf-core-functions.php:1701
+msgid "Mayotte"
+msgstr "马约特岛"
+
+#: includes/evf-core-functions.php:1700
+msgid "Mauritius"
+msgstr "毛里求斯"
+
+#: includes/evf-core-functions.php:1699
+msgid "Mauritania"
+msgstr "毛里塔尼亚"
+
+#: includes/evf-core-functions.php:1698
+msgid "Martinique"
+msgstr "马提尼克"
+
+#: includes/evf-core-functions.php:1697
+msgid "Marshall Islands"
+msgstr "马绍尔群岛"
+
+#: includes/evf-core-functions.php:1696
+msgid "Malta"
+msgstr "马耳他"
+
+#: includes/evf-core-functions.php:1695
+msgid "Mali"
+msgstr "马里"
+
+#: includes/evf-core-functions.php:1694
+msgid "Maldives"
+msgstr "马尔代夫"
+
+#: includes/evf-core-functions.php:1693
+msgid "Malaysia"
+msgstr "马来西亚"
+
+#: includes/evf-core-functions.php:1692
+msgid "Malawi"
+msgstr "马拉维"
+
+#: includes/evf-core-functions.php:1691
+msgid "Madagascar"
+msgstr "马达加斯加"
+
+#: includes/evf-core-functions.php:1689
+msgid "Macao"
+msgstr "澳门"
+
+#: includes/evf-core-functions.php:1688
+msgid "Luxembourg"
+msgstr "卢森堡"
+
+#: includes/evf-core-functions.php:1687
+msgid "Lithuania"
+msgstr "立陶宛"
+
+#: includes/evf-core-functions.php:1686
+msgid "Liechtenstein"
+msgstr "列支敦士登"
+
+#: includes/evf-core-functions.php:1685
+msgid "Libya"
+msgstr "利比亚"
+
+#: includes/evf-core-functions.php:1684
+msgid "Liberia"
+msgstr "利比里亚"
+
+#: includes/evf-core-functions.php:1683
+msgid "Lesotho"
+msgstr "莱索托"
+
+#: includes/evf-core-functions.php:1682
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+#: includes/evf-core-functions.php:1681
+msgid "Latvia"
+msgstr "拉脱维亚"
+
+#: includes/evf-core-functions.php:1680
+msgid "Lao People's Democratic Republic"
+msgstr "老挝人民民主共和国"
+
+#: includes/evf-core-functions.php:1679
+msgid "Kyrgyzstan"
+msgstr "吉尔吉斯斯坦"
+
+#: includes/evf-core-functions.php:1678
+msgid "Kuwait"
+msgstr "科威特"
+
+#: includes/evf-core-functions.php:1677
+msgid "Korea (Republic of)"
+msgstr "韩国（共和国）"
+
+#: includes/evf-core-functions.php:1676
+msgid "Korea (Democratic People's Republic of)"
+msgstr "韩国（民主人民共和国）"
+
+#: includes/evf-core-functions.php:1675
+msgid "Kiribati"
+msgstr "基里巴斯"
+
+#: includes/evf-core-functions.php:1674
+msgid "Kenya"
+msgstr "肯尼亚"
+
+#: includes/evf-core-functions.php:1673
+msgid "Kazakhstan"
+msgstr "哈萨克斯坦"
+
+#: includes/evf-core-functions.php:1672
+msgid "Jordan"
+msgstr "约旦"
+
+#: includes/evf-core-functions.php:1671
+msgid "Jersey"
+msgstr "泽西岛"
+
+#: includes/evf-core-functions.php:1670
+msgid "Japan"
+msgstr "日本"
+
+#: includes/evf-core-functions.php:1669
+msgid "Jamaica"
+msgstr "牙买加"
+
+#: includes/evf-core-functions.php:1668
+msgid "Italy"
+msgstr "意大利"
+
+#: includes/evf-core-functions.php:1667
+msgid "Israel"
+msgstr "以色列"
+
+#: includes/evf-core-functions.php:1666
+msgid "Isle of Man"
+msgstr "马恩岛"
+
+#: includes/evf-core-functions.php:1665
+msgid "Ireland (Republic of)"
+msgstr "爱尔兰(共和国)"
+
+#: includes/evf-core-functions.php:1664
+msgid "Iraq"
+msgstr "伊拉克"
+
+#: includes/evf-core-functions.php:1663
+msgid "Iran (Islamic Republic of)"
+msgstr "伊朗（伊斯兰共和国）"
+
+#: includes/evf-core-functions.php:1662
+msgid "Indonesia"
+msgstr "印尼"
+
+#: includes/evf-core-functions.php:1661
+msgid "India"
+msgstr "印度"
+
+#: includes/evf-core-functions.php:1660
+msgid "Iceland"
+msgstr "冰岛"
+
+#: includes/evf-core-functions.php:1659
+msgid "Hungary"
+msgstr "匈牙利"
+
+#: includes/evf-core-functions.php:1658
+msgid "Hong Kong"
+msgstr "香港特别行政区，中国"
+
+#: includes/evf-core-functions.php:1657
+msgid "Honduras"
+msgstr "洪都拉斯"
+
+#: includes/evf-core-functions.php:1656
+msgid "Heard Island and McDonald Islands"
+msgstr "赫德岛和麦克唐纳群岛"
+
+#: includes/evf-core-functions.php:1655
+msgid "Haiti"
+msgstr "海地"
+
+#: includes/evf-core-functions.php:1654
+msgid "Guyana"
+msgstr "圭亚那"
+
+#: includes/evf-core-functions.php:1653
+msgid "Guinea-Bissau"
+msgstr "几内亚比绍"
+
+#: includes/evf-core-functions.php:1652
+msgid "Guinea"
+msgstr "几内亚"
+
+#: includes/evf-core-functions.php:1651
+msgid "Guernsey"
+msgstr "根西岛"
+
+#: includes/evf-core-functions.php:1650
+msgid "Guatemala"
+msgstr "危地马拉"
+
+#: includes/evf-core-functions.php:1649
+msgid "Guam"
+msgstr "关岛"
+
+#: includes/evf-core-functions.php:1648
+msgid "Guadeloupe"
+msgstr "瓜德罗普岛"
+
+#: includes/evf-core-functions.php:1647
+msgid "Grenada"
+msgstr "格林纳达"
+
+#: includes/evf-core-functions.php:1646
+msgid "Greenland"
+msgstr "格陵兰"
+
+#: includes/evf-core-functions.php:1645
+msgid "Greece"
+msgstr "希腊"
+
+#: includes/evf-core-functions.php:1644
+msgid "Gibraltar"
+msgstr "直布罗陀"
+
+#: includes/evf-core-functions.php:1643
+msgid "Ghana"
+msgstr "加纳"
+
+#: includes/evf-core-functions.php:1642
+msgid "Germany"
+msgstr "德国"
+
+#: includes/evf-core-functions.php:1641
+msgctxt "Country"
+msgid "Georgia"
+msgstr "格鲁吉亚"
+
+#: includes/evf-core-functions.php:1640
+msgid "Gambia"
+msgstr "冈比亚"
+
+#: includes/evf-core-functions.php:1639
+msgid "Gabon"
+msgstr "加蓬"
+
+#: includes/evf-core-functions.php:1638
+msgid "French Southern Territories"
+msgstr "法国南部领土"
+
+#: includes/evf-core-functions.php:1637
+msgid "French Polynesia"
+msgstr "法属波利尼西亚"
+
+#: includes/evf-core-functions.php:1636
+msgid "French Guiana"
+msgstr "法属圭亚那"
+
+#: includes/evf-core-functions.php:1635
+msgid "France"
+msgstr "法国"
+
+#: includes/evf-core-functions.php:1634
+msgid "Finland"
+msgstr "芬兰"
+
+#: includes/evf-core-functions.php:1633
+msgid "Fiji"
+msgstr "斐济"
+
+#: includes/evf-core-functions.php:1632
+msgid "Faroe Islands"
+msgstr "法罗群岛"
+
+#: includes/evf-core-functions.php:1631
+msgid "Falkland Islands (Malvinas)"
+msgstr "福克兰群岛(马尔维纳斯)"
+
+#: includes/evf-core-functions.php:1630
+msgid "Ethiopia"
+msgstr "埃塞俄比亚"
+
+#: includes/evf-core-functions.php:1629
+msgid "Estonia"
+msgstr "爱沙尼亚"
+
+#: includes/evf-core-functions.php:1628
+msgid "Eritrea"
+msgstr "厄立特里亚"
+
+#: includes/evf-core-functions.php:1627
+msgid "Equatorial Guinea"
+msgstr "赤道几内亚"
+
+#: includes/evf-core-functions.php:1626
+msgid "El Salvador"
+msgstr "萨尔瓦多"
+
+#: includes/evf-core-functions.php:1625
+msgid "Egypt"
+msgstr "埃及"
+
+#: includes/evf-core-functions.php:1624
+msgid "Ecuador"
+msgstr "厄瓜多尔"
+
+#: includes/evf-core-functions.php:1623
+msgid "Dominican Republic"
+msgstr "多米尼加共和国"
+
+#: includes/evf-core-functions.php:1622
+msgid "Dominica"
+msgstr "多米尼加"
+
+#: includes/evf-core-functions.php:1621
+msgid "Djibouti"
+msgstr "吉布提"
+
+#: includes/evf-core-functions.php:1620
+msgid "Denmark"
+msgstr "丹麦"
+
+#: includes/evf-core-functions.php:1619
+msgid "Czech Republic"
+msgstr "捷克共和国"
+
+#: includes/evf-core-functions.php:1618
+msgid "Cyprus"
+msgstr "塞浦路斯"
+
+#: includes/evf-core-functions.php:1617
+msgid "Curaçao"
+msgstr "库拉索"
+
+#: includes/evf-core-functions.php:1616
+msgid "Cuba"
+msgstr "古巴"
+
+#: includes/evf-core-functions.php:1615
+msgid "Croatia"
+msgstr "克罗地亚"
+
+#: includes/evf-core-functions.php:1614
+msgid "Côte d'Ivoire"
+msgstr "科特迪瓦"
+
+#: includes/evf-core-functions.php:1613
+msgid "Costa Rica"
+msgstr "哥斯达黎加"
+
+#: includes/evf-core-functions.php:1612
+msgid "Cook Islands"
+msgstr "库克群岛"
+
+#: includes/evf-core-functions.php:1611
+msgid "Congo (Democratic Republic of the)"
+msgstr "刚果(民主共和国)"
+
+#: includes/evf-core-functions.php:1610
+msgid "Congo"
+msgstr "刚果"
+
+#: includes/evf-core-functions.php:1609
+msgid "Comoros"
+msgstr "科摩罗"
+
+#: includes/evf-core-functions.php:1608
+msgid "Colombia"
+msgstr "哥伦比亚"
+
+#: includes/evf-core-functions.php:1607
+msgid "Cocos (Keeling) Islands"
+msgstr "科科斯（基林）群岛"
+
+#: includes/evf-core-functions.php:1606
+msgid "Christmas Island"
+msgstr "圣诞岛"
+
+#: includes/evf-core-functions.php:1605
+msgid "China"
+msgstr "中国"
+
+#: includes/evf-core-functions.php:1604
+msgid "Chile"
+msgstr "智利"
+
+#: includes/evf-core-functions.php:1603
+msgid "Chad"
+msgstr "乍得"
+
+#: includes/evf-core-functions.php:1602
+msgid "Central African Republic"
+msgstr "中非共和国"
+
+#: includes/evf-core-functions.php:1601
+msgid "Cayman Islands"
+msgstr "开曼群岛"
+
+#: includes/evf-core-functions.php:1600
+msgid "Canada"
+msgstr "加拿大"
+
+#: includes/evf-core-functions.php:1599
+msgid "Cameroon"
+msgstr "喀麦隆"
+
+#: includes/evf-core-functions.php:1598
+msgid "Cambodia"
+msgstr "柬埔寨"
+
+#: includes/evf-core-functions.php:1597
+msgid "Cabo Verde"
+msgstr "佛得角"
+
+#: includes/evf-core-functions.php:1596
+msgid "Burundi"
+msgstr "布隆迪"
+
+#: includes/evf-core-functions.php:1595
+msgid "Burkina Faso"
+msgstr "布基纳法索"
+
+#: includes/evf-core-functions.php:1594
+msgid "Bulgaria"
+msgstr "保加利亚"
+
+#: includes/evf-core-functions.php:1593
+msgid "Brunei Darussalam"
+msgstr "文莱达鲁萨兰国"
+
+#: includes/evf-core-functions.php:1592
+msgid "British Indian Ocean Territory"
+msgstr "英属印度洋领地"
+
+#: includes/evf-core-functions.php:1591
+msgid "Brazil"
+msgstr "巴西"
+
+#: includes/evf-core-functions.php:1590
+msgid "Bouvet Island"
+msgstr "布维岛"
+
+#: includes/evf-core-functions.php:1589
+msgid "Botswana"
+msgstr "博茨瓦纳"
+
+#: includes/evf-core-functions.php:1588
+msgid "Bosnia and Herzegovina"
+msgstr "波斯尼亚和黑塞哥维那"
+
+#: includes/evf-core-functions.php:1587
+msgid "Bolivia (Plurinational State of)"
+msgstr "玻利维亚（多民族国）"
+
+#: includes/evf-core-functions.php:1586
+msgid "Bhutan"
+msgstr "不丹"
+
+#: includes/evf-core-functions.php:1585
+msgid "Bermuda"
+msgstr "百慕大"
+
+#: includes/evf-core-functions.php:1584
+msgid "Benin"
+msgstr "贝宁"
+
+#: includes/evf-core-functions.php:1583
+msgid "Belize"
+msgstr "伯利兹"
+
+#: includes/evf-core-functions.php:1582
+msgid "Belgium"
+msgstr "比利时"
+
+#: includes/evf-core-functions.php:1581
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+#: includes/evf-core-functions.php:1580
+msgid "Barbados"
+msgstr "巴巴多斯"
+
+#: includes/evf-core-functions.php:1579
+msgid "Bangladesh"
+msgstr "孟加拉国"
+
+#: includes/evf-core-functions.php:1578
+msgid "Bahrain"
+msgstr "巴林"
+
+#: includes/evf-core-functions.php:1577
+msgid "Bahamas"
+msgstr "巴哈马"
+
+#: includes/evf-core-functions.php:1576
+msgid "Azerbaijan"
+msgstr "阿塞拜疆"
+
+#: includes/evf-core-functions.php:1575
+msgid "Austria"
+msgstr "奥地利"
+
+#: includes/evf-core-functions.php:1574
+msgid "Australia"
+msgstr "澳大利亚"
+
+#: includes/evf-core-functions.php:1573
+msgid "Aruba"
+msgstr "阿鲁巴"
+
+#: includes/evf-core-functions.php:1572
+msgid "Armenia"
+msgstr "亚美尼亚"
+
+#: includes/evf-core-functions.php:1571
+msgid "Argentina"
+msgstr "阿根廷"
+
+#: includes/evf-core-functions.php:1570
+msgid "Antigua and Barbuda"
+msgstr "安提瓜和巴布达"
+
+#: includes/evf-core-functions.php:1569
+msgid "Antarctica"
+msgstr "南极洲"
+
+#: includes/evf-core-functions.php:1568
+msgid "Anguilla"
+msgstr "安圭拉"
+
+#: includes/evf-core-functions.php:1567
+msgid "Angola"
+msgstr "安哥拉"
+
+#: includes/evf-core-functions.php:1566
+msgid "Andorra"
+msgstr "安道尔"
+
+#: includes/evf-core-functions.php:1565
+msgid "American Samoa"
+msgstr "美属萨摩亚"
+
+#: includes/evf-core-functions.php:1564
+msgid "Algeria"
+msgstr "阿尔及利亚"
+
+#: includes/evf-core-functions.php:1563
+msgid "Albania"
+msgstr "阿尔巴尼亚"
+
+#: includes/evf-core-functions.php:1562
+msgid "Åland Islands"
+msgstr "奥兰群岛"
+
+#: includes/evf-core-functions.php:1561
+msgid "Afghanistan"
+msgstr "阿富汗"
+
+#: includes/class-evf-fields.php:61
+msgid "Unserializing instances of this class is forbidden."
+msgstr "禁止使用此类别的非序列化实例。"
+
+#: includes/class-evf-fields.php:52
+msgid "Cloning is forbidden."
+msgstr "禁止克隆。"
+
+#. translators: %1$s - deactivation reason page; %2$d - deactivation url.
+#: includes/class-evf-ajax.php:634
+msgid "Before we deactivate Everest Forms, would you care to <a href=\"%1$s\" target=\"_blank\">let us know why</a> so we can improve it for you? <a href=\"%2$s\">No, deactivate now</a>."
+msgstr "在我们禁用 Everest Forms 之前，您是否愿意<a href=\"%1$s\" target=\"_blank\">让我们知道原因</a>，以便我们为您改进它？<a href=\"%2$s\">不，立即停用</a>。"
+
+#: includes/class-evf-ajax.php:507
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "无法连接到文件系统，请确认您的凭据。"
+
+#: includes/class-evf-ajax.php:443
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "抱歉，您不能在此站点上安装插件。"
+
+#: includes/class-evf-ajax.php:430
+msgid "No plugin specified."
+msgstr "未指定插件。"
+
+#: includes/admin/views/html-admin-page-builder.php:52
+msgid "Copy shortcode"
+msgstr "复制简码"
+
+#: includes/admin/views/html-admin-page-builder.php:51
+msgid "Copied!"
+msgstr "已复制!"
+
+#: includes/admin/views/html-admin-page-builder.php:51
+msgid "Copy Shortcode!"
+msgstr "复制简码!"
+
+#: includes/admin/views/html-admin-page-builder.php:30
+msgid "Loading&hellip;"
+msgstr "加载中 &hellip;"
+
+#. translators: %s: Add-ons Link
+#: includes/admin/views/html-admin-page-addons.php:147
+msgid "Our catalog of Everest Forms Add-ons/Extensions can be found on WPEverest.com here: <a href=\"%s\">Everest Forms Extensions Catalog</a>"
+msgstr "查看<a href=\"%s\">Everest Forms 扩展目录</a>"
+
+#: includes/admin/class-evf-admin-assets.php:235
+#: includes/admin/views/html-admin-page-addons.php:133
+msgid "Upgrade Plan"
+msgstr "升级计划"
+
+#: includes/admin/views/html-admin-page-addons.php:128
+msgid "Install Addon"
+msgstr "安装插件"
+
+#: includes/admin/views/html-admin-page-addons.php:122
+msgid "Activate"
+msgstr "激活"
+
+#: includes/admin/views/html-admin-page-addons.php:104
+msgid "Deactivate"
+msgstr "禁用"
+
+#: includes/admin/views/html-admin-page-addons.php:83
+msgid "Not Installed"
+msgstr "未安装"
+
+#: includes/admin/views/html-admin-page-addons.php:81
+msgid "Inactive"
+msgstr "未激活"
+
+#: includes/admin/views/html-admin-page-addons.php:79
+msgid "Activated"
+msgstr "已激活"
+
+#: includes/admin/views/html-admin-page-addons.php:56
+msgid "Add-ons list"
+msgstr " 附加组件列表"
+
+#: includes/admin/views/html-admin-page-addons.php:39
+msgid "Search Add-ons..."
+msgstr "正在搜索 附加组件…"
+
+#: includes/admin/views/html-admin-page-addons.php:38
+#: includes/admin/views/html-admin-page-addons.php:41
+msgid "Search Add-ons"
+msgstr "搜索加载项"
+
+#: includes/admin/views/html-admin-page-addons.php:22
+msgid "Filter add-ons list"
+msgstr "筛选器加载项列表"
+
+#: includes/admin/views/html-admin-page-addons.php:18
+msgid "Refresh Add-ons"
+msgstr "刷新加载项"
+
+#: includes/admin/settings/class-evf-settings-email.php:46
+msgid "Template"
+msgstr "模板"
+
+#: includes/admin/settings/class-evf-settings-email.php:40
+msgid "Template Settings"
+msgstr "模版设置"
+
+#: includes/admin/class-evf-admin.php:90
+msgid "Sorry, you are not allowed to deactivate plugins for this site."
+msgstr "抱歉，您不能在此站点上禁用插件。"
+
+#: includes/admin/class-evf-admin.php:82
+msgid "Sorry, you are not allowed to activate this plugin."
+msgstr "抱歉，您不能启用此插件。"
+
+#: includes/admin/class-evf-admin.php:70 includes/admin/class-evf-admin.php:115
+msgid "Could not verify nonce"
+msgstr "无法立即验证"
+
+#: includes/evf-formatting-functions.php:607
+#: includes/admin/class-evf-admin-settings.php:592
+msgid "Year(s)"
+msgstr "年"
+
+#: includes/evf-formatting-functions.php:606
+#: includes/admin/class-evf-admin-settings.php:591
+msgid "Month(s)"
+msgstr "月"
+
+#: includes/evf-formatting-functions.php:605
+#: includes/admin/class-evf-admin-settings.php:590
+msgid "Week(s)"
+msgstr "周"
+
+#: includes/evf-formatting-functions.php:604
+#: includes/admin/class-evf-admin-settings.php:589
+msgid "Day(s)"
+msgstr "日"
+
+#: includes/admin/class-evf-admin-menus.php:210
+msgid "Add-ons"
+msgstr "附加组件"
+
+#: includes/admin/class-evf-admin-menus.php:210
+#: includes/admin/views/html-admin-page-addons.php:15
+msgid "Everest Forms Add-ons"
+msgstr "Everest Forms 附加组件"
+
+#: includes/admin/class-evf-admin-menus.php:134
+msgid "Everest Forms Entries"
+msgstr "Everest Forms 内容 "
+
+#: includes/admin/class-evf-admin-menus.php:95
+msgid "Everest Forms Setup"
+msgstr "安装Everest Forms"
+
+#: includes/admin/class-evf-admin-menus.php:93
+msgid "Everest Forms Builder"
+msgstr "Everest Forms 编辑器"
+
+#: includes/admin/class-evf-admin-forms.php:231
+msgid "No form to duplicate has been supplied!"
+msgstr "没有提供复制的表格!"
+
+#. translators: %d: number of forms
+#: includes/admin/class-evf-admin-forms.php:221
+#: includes/admin/class-evf-admin-forms-table-list.php:429
+msgid "%d form permanently deleted."
+msgid_plural "%d forms permanently deleted."
+msgstr[0] "%d 表单已永久删除。"
+
+#. translators: %d: number of forms
+#: includes/admin/class-evf-admin-forms-table-list.php:414
+msgid "%d form restored from the Trash."
+msgid_plural "%d forms restored from the Trash."
+msgstr[0] "%d 从回收站中恢复表单."
+
+#. translators: %d: number of forms
+#: includes/admin/class-evf-admin-forms-table-list.php:399
+msgid "%d form moved to the Trash."
+msgid_plural "%d forms moved to the Trash."
+msgstr[0] "%d 表格被移到回收站中。"
+
+#. translators: %d: number of entries
+#: includes/admin/class-evf-admin-entries.php:257
+#: includes/admin/class-evf-admin-entries-table-list.php:524
+msgid "%d entry permanently deleted."
+msgid_plural "%d entries permanently deleted."
+msgstr[0] "%d 从回收站中删除条目。"
+
+#. translators: %d: number of entries
+#: includes/admin/class-evf-admin-entries-table-list.php:509
+msgid "%d entry restored from the Trash."
+msgid_plural "%d entries restored from the Trash."
+msgstr[0] "%d 从回收站中恢复条目。"
+
+#. translators: %d: number of entries
+#: includes/admin/class-evf-admin-entries-table-list.php:494
+msgid "%d entry moved to the Trash."
+msgid_plural "%d entries moved to the Trash."
+msgstr[0] "%d 条目移到回收站中。"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:106
+#: includes/export/class-evf-entry-csv-exporter.php:80
+msgid "Date Created"
+msgstr "创建日期"
+
+#. translators: %s - Everest Builder page.
+#: includes/admin/class-evf-admin-editor.php:82
+msgid "Whoops, you haven't created a form yet. Want to <a href=\"%s\">give it a go</a>?"
+msgstr "哎呀，你还没有创建一个表单。想要<a href=\"%s\">试一试</a>？"
+
+#: includes/admin/class-evf-admin-assets.php:169
+msgid "Upgrade to PRO"
+msgstr "升级到PRO"
+
+#: includes/admin/class-evf-admin-assets.php:168
+msgid "We're sorry, the %name% is not available on your plan.<br>Please upgrade to the PRO plan to unlock all these awesome features."
+msgstr "很抱歉，您的计划中没有 %name%。<br>请升级到PRO计划解锁所有高级功能。"
+
+#: includes/admin/class-evf-admin-assets.php:167
+msgid "is a PRO Feature"
+msgstr "是PRO版功能"
+
+#: includes/admin/class-evf-admin-assets.php:137
+msgid "(copy)"
+msgstr "(复制)"
+
+#: includes/admin/builder/class-evf-builder-fields.php:62
+msgid "Field Options"
+msgstr "字段选项"
+
+#: includes/admin/builder/class-evf-builder-fields.php:61
+msgid "Add Fields"
+msgstr "添加字段"
+
+#: includes/abstracts/class-evf-form-fields.php:693
+msgid "Code"
+msgstr "代码"
+
+#: includes/abstracts/class-evf-form-fields.php:687
+msgid "Enter code for the form field."
+msgstr "输入表单字段的代码。"
+
+#: includes/admin/builder/class-evf-builder-settings.php:332
+msgid "Disable storing entry information"
+msgstr "禁用存储条目信息"
+
+#: includes/admin/settings/class-evf-settings-general.php:46
+msgid "Disable User Details"
+msgstr "禁用用户详细信息"
+
+#: includes/admin/settings/class-evf-settings-general.php:47
+msgid "Disable storing the IP address and User Agent on all forms."
+msgstr "禁用在所有表单上存储 IP 地址和用户代理。"
+
+#. translators: 1: last access date 2: last access time
+#: includes/admin/views/html-admin-page-tools-logs.php:28
+msgid "%1$s at %2$s"
+msgstr "%1$s - %2$s"
+
+#: includes/libraries/wp-background-process.php:423
+msgid "Every %d Minutes"
+msgstr "每 %d 分钟"
+
+#: includes/admin/class-evf-admin-assets.php:147
+msgid "Are you sure you want to duplicate this field?"
+msgstr "是否确定复制此字段？"
+
+#: includes/admin/class-evf-admin-assets.php:146
+msgid "Are you sure you want to delete this field?"
+msgstr "您确定要删除此字段吗？"
+
+#: includes/admin/class-evf-admin-assets.php:144
+msgid "This item must contain at least one choice."
+msgstr "此项必须至少包含一个选项。"
+
+#: includes/admin/class-evf-admin-assets.php:143
+msgid "This field cannot be deleted or duplicated."
+msgstr "无法删除或复制此字段。"
+
+#: includes/admin/class-evf-admin-assets.php:142
+msgid "Field Locked"
+msgstr "现场锁定"
+
+#: includes/admin/class-evf-admin-assets.php:141
+msgid "Single row cannot be deleted."
+msgstr "无法删除单个行。"
+
+#: includes/admin/class-evf-admin-assets.php:140
+msgid "Row Locked"
+msgstr "锁定行"
+
+#: includes/admin/class-evf-admin-assets.php:132
+#: includes/admin/class-evf-admin-assets.php:191
+msgid "OK"
+msgstr "确定"
+
+#: includes/evf-entry-functions.php:82
+msgid "Published"
+msgstr "发布时间"
+
+#: includes/class-evf-form-task.php:683
+msgid "Could not create an entry"
+msgstr "无法创建条目"
+
+#: includes/class-evf-form-task.php:676
+msgid "No form ID was found."
+msgstr "找不到表单ID。"
+
+#: includes/admin/views/html-admin-page-entries-view.php:212
+msgid "Completed"
+msgstr "处理完成"
+
+#: includes/admin/views/html-admin-page-addons.php:77
+#: includes/admin/views/html-admin-page-entries-view.php:211
+msgid "Status:"
+msgstr "状态："
+
+#: includes/admin/views/html-admin-page-entries-view.php:195
+msgid "User IP:"
+msgstr "用户IP"
+
+#: includes/admin/views/html-admin-page-entries-view.php:177
+msgid "User:"
+msgstr "用户："
+
+#: includes/admin/views/html-admin-page-entries-view.php:162
+#: includes/admin/views/html-admin-page-entries-view.php:169
+msgid "M j, Y @ g:ia"
+msgstr "M j, Y @ g:ia"
+
+#: includes/admin/views/html-admin-page-entries-view.php:161
+msgid "Submitted:"
+msgstr "提交:"
+
+#: includes/admin/views/html-admin-page-entries-view.php:155
+msgid "Entry ID:"
+msgstr "条目 ID："
+
+#: includes/admin/views/html-admin-page-entries-view.php:149
+msgid "Entry Details"
+msgstr "条目细节"
+
+#: includes/admin/views/html-admin-page-entries-view.php:131
+msgid "Empty"
+msgstr "空"
+
+#: includes/admin/views/html-admin-page-entries-view.php:90
+msgid "Field ID"
+msgstr "字段 ID"
+
+#: includes/admin/views/html-admin-page-entries-view.php:58
+msgid "This entry does not have any fields."
+msgstr "此条目没有任何字段."
+
+#: includes/admin/views/html-admin-page-entries-view.php:47
+msgid "Hide Empty Fields"
+msgstr "隐藏空字段"
+
+#: includes/admin/views/html-admin-page-entries-view.php:47
+msgid "Show Empty Fields"
+msgstr "显示空字段"
+
+#: includes/admin/views/html-admin-page-entries-view.php:28
+msgid "Back to All Entries"
+msgstr "返回所有询盘"
+
+#: includes/admin/views/html-admin-page-entries-view.php:27
+msgid "View Entry"
+msgstr "查看条目"
+
+#: includes/admin/class-evf-admin-entries.php:100
+msgid "Create your first form!"
+msgstr "创建您的第一个表单!"
+
+#: includes/admin/class-evf-admin-entries.php:99
+msgid "Learn more about entries"
+msgstr "了解更多关于条目的信息"
+
+#: includes/admin/class-evf-admin-entries.php:76
+msgid "Search Entries"
+msgstr "搜索询盘"
+
+#: includes/admin/class-evf-admin-menus.php:134
+#: includes/admin/class-evf-admin-entries.php:59
+#: includes/admin/class-evf-admin-forms-table-list.php:53
+#: includes/admin/class-evf-admin-forms-table-list.php:117
+msgid "Entries"
+msgstr "条目"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:581
+msgid "Filter by form"
+msgstr "按表单过滤"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:446
+#: includes/admin/class-evf-admin-entries-table-list.php:567
+msgid "Empty Trash"
+msgstr "清空回收站"
+
+#: includes/admin/class-evf-admin-entries.php:94
+#: includes/admin/class-evf-admin-entries-table-list.php:557
+msgid "Filter"
+msgstr "过滤器"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:418
+msgid "Move to Trash"
+msgstr "移动到回收站"
+
+#. translators: %s: count
+#: includes/admin/class-evf-admin-entries-table-list.php:384
+msgctxt "entries"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "所有 <span class=\"count\">(%s)</span>"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:337
+#: includes/admin/class-evf-admin-entries-table-list.php:414
+msgid "Delete Permanently"
+msgstr "永久删除"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:326
+msgid "Delete form entry permanently"
+msgstr "永久删除表格条目"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:314
+msgid "Restore form entry from trash"
+msgstr "从回收站中恢复表单"
+
+#. translators: %s: entry name
+#: includes/admin/class-evf-admin-entries-table-list.php:299
+msgid "Trash form entry"
+msgstr "垃圾箱表格条目"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:175
+#: includes/admin/class-evf-admin-entries-table-list.php:186
+msgid "Field"
+msgstr "字段"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:107
+msgid "Actions"
+msgstr "操作"
+
+#: includes/admin/class-evf-admin-entries.php:83
+#: includes/admin/class-evf-admin-entries-table-list.php:94
+msgid "Whoops, it appears you do not have any form entries yet."
+msgstr "哎呀，看来你还没有任何表格条目."
+
+#: includes/abstracts/class-evf-form-fields.php:431
+#: includes/evf-core-functions.php:1923
+msgid "Meta Key"
+msgstr "Meta Key"
+
+#: includes/abstracts/class-evf-form-fields.php:425
+#: includes/evf-core-functions.php:1924
+msgid "Enter meta key to be stored in database."
+msgstr "输入要存储在数据库中的元键."
+
+#: includes/admin/class-evf-admin-forms-table-list.php:37
+msgid "No Forms found."
+msgstr "没有找到表单."
+
+#: includes/class-evf-install.php:654
+msgid "Free support"
+msgstr "免费支持"
+
+#: includes/admin/builder/class-evf-builder-settings.php:173
+msgid "Thanks for contacting us! We will be in touch with you shortly"
+msgstr "感谢来访！我们会在最近联系你"
+
+#: includes/admin/builder/class-evf-builder-settings.php:170
+msgid "Successful form submission message"
+msgstr "表单提交成功消息"
+
+#: includes/fields/class-evf-field-email.php:20
+#: includes/fields/class-evf-field-email.php:93
+#: includes/fields/class-evf-field-email.php:265
+#: includes/admin/builder/class-evf-builder-settings.php:41
+#: includes/admin/builder/class-evf-builder-settings.php:379
+#: includes/admin/settings/class-evf-settings-email.php:25
+#: includes/admin/settings/class-evf-settings-validation.php:64
+msgid "Email"
+msgstr "电邮"
+
+#: includes/admin/builder/class-evf-builder-settings.php:40
+#: includes/admin/builder/class-evf-builder-settings.php:128
+#: includes/admin/settings/class-evf-settings-general.php:25
+msgid "General"
+msgstr "常规"
+
+#: includes/admin/builder/class-evf-builder-fields.php:244
+msgid "Select the type of row"
+msgstr "选择行的类型"
+
+#: includes/admin/builder/class-evf-builder-fields.php:243
+msgid "Row Settings"
+msgstr "行设置"
+
+#: includes/admin/builder/class-evf-builder-fields.php:154
+msgid "You don't have any fields yet."
+msgstr "您还没有任何字段。"
+
+#: includes/evf-core-functions.php:1888
+msgid "Advanced Fields"
+msgstr "高级字段"
+
+#: includes/evf-core-functions.php:1887
+msgid "General Fields"
+msgstr "常规字段"
+
+#: includes/admin/builder/class-evf-builder-fields.php:38
+msgid "Fields"
+msgstr "字段"
+
+#: includes/admin/evf-admin-functions.php:354
+msgid "Field #"
+msgstr "字段 #"
+
+#: includes/admin/class-evf-admin.php:201
+msgid "Thank you for creating with Everest Forms."
+msgstr "感谢您使用Everest Forms进行创作。"
+
+#: includes/admin/class-evf-admin.php:190
+msgid "Thanks :)"
+msgstr "谢谢 :)"
+
+#. translators: 1: EverestForms 2:: five stars
+#: includes/admin/class-evf-admin.php:188
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "如果您喜欢%1$s 请留下我们 %2$s评分。先表示十分的谢意哦！"
+
+#: includes/admin/class-evf-admin-settings.php:580
+msgid "Select a page&hellip;"
+msgstr "选择一个页面&hellip;"
+
+#: includes/admin/class-evf-admin-settings.php:132
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "如果离开这个页面，你所做的更改将丢失。"
+
+#: includes/admin/class-evf-admin-settings.php:73
+msgid "Your settings have been saved."
+msgstr "您的设置已保存。"
+
+#: includes/class-everest-forms.php:101 includes/class-everest-forms.php:110
+msgid "Cheatin&#8217; huh?"
+msgstr "您的攻击行为&#8217已被记录。"
+
+#: includes/export/class-evf-entry-csv-exporter.php:79
+msgid "Status"
+msgstr "状态"
+
+#: includes/admin/class-evf-admin-menus.php:203
+msgid "Everest Forms tools"
+msgstr "Everest Forms 工具"
+
+#: includes/admin/class-evf-admin-menus.php:164
+msgid "Everest Forms settings"
+msgstr "Everest Forms 设置"
+
+#: includes/admin/class-evf-admin-notices.php:118
+#: includes/admin/class-evf-admin-import-export.php:34
+#: includes/admin/class-evf-admin-tools.php:165
+msgid "Action failed. Please refresh the page and retry."
+msgstr "动作失败。请刷新页面重试。"
+
+#: includes/class-evf-post-types.php:48
+#: includes/admin/class-evf-admin-forms.php:158
+#: includes/admin/class-evf-admin-menus.php:95
+msgid "Add New"
+msgstr "安装插件"
+
+#: includes/class-evf-post-types.php:46
+#: includes/admin/class-evf-admin-forms.php:157
+#: includes/admin/class-evf-admin-menus.php:93
+msgid "All Forms"
+msgstr "所有表单"
+
+#. Plugin Name of the plugin
+#: includes/class-evf-post-types.php:112 includes/class-evf-privacy.php:31
+#: includes/admin/class-evf-admin-menus.php:62
+#: includes/admin/class-evf-admin.php:189
+#: includes/admin/evf-admin-functions.php:17
+#: includes/class-evf-form-block.php:78
+msgid "Everest Forms"
+msgstr "Everest Forms"
+
+#: includes/admin/views/html-admin-page-entries-view.php:222
+#: includes/admin/class-evf-admin-forms-table-list.php:369
+msgid "Move to trash"
+msgstr "移至回收站"
+
+#. translators: %s: count
+#: includes/admin/class-evf-admin-forms-table-list.php:279
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "所有 <span class=\"count\">(%s)</span>"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:146
+msgid "Duplicate"
+msgstr "复制"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:127
+#: includes/admin/class-evf-admin-forms-table-list.php:364
+msgid "Delete permanently"
+msgstr "永久删除"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:127
+msgid "Delete this item permanently"
+msgstr "永久删除该条目"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:124
+#: includes/admin/class-evf-admin-entries-table-list.php:310
+#: includes/evf-entry-functions.php:83
+msgid "Trash"
+msgstr "垃圾"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:124
+msgid "Move this item to the Trash"
+msgstr "移动该条目到回收站"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:122
+#: includes/admin/class-evf-admin-forms-table-list.php:363
+#: includes/admin/class-evf-admin-entries-table-list.php:325
+#: includes/admin/class-evf-admin-entries-table-list.php:413
+msgid "Restore"
+msgstr "恢复"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:122
+msgid "Restore this item from the Trash"
+msgstr "从回收站中恢复该条目"
+
+#: includes/class-evf-post-types.php:50
+#: includes/admin/class-evf-admin-forms-table-list.php:116
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:230
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#. translators: %s: Time
+#: includes/admin/class-evf-admin-forms-table-list.php:226
+msgid "%s ago"
+msgstr "%s前"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:214
+msgid "Y/m/d g:i:s A"
+msgstr "年/月/日 时：分：秒 上午"
+
+#: includes/fields/class-evf-field-date-time.php:82
+#: includes/fields/class-evf-field-date-time.php:121
+#: includes/admin/class-evf-admin-forms-table-list.php:52
+msgid "Date"
+msgstr "日期"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:51
+msgid "Author"
+msgstr "作者"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:50
+msgid "Shortcode"
+msgstr "短代码"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:49
+msgid "Title"
+msgstr "标签"
+
+#. translators: %s: Template title
+#: includes/admin/views/html-admin-page-builder-setup.php:72
+msgctxt "Template name"
+msgid "%s template"
+msgstr "%s模板"
+
+#: includes/class-evf-smart-tags.php:37
+#: includes/admin/builder/class-evf-builder-settings.php:135
+msgid "Form Name"
+msgstr "表单名"
+
+#: includes/templates/contact.php:12 includes/class-evf-install.php:575
+msgid "Contact Form"
+msgstr "联系表"
+
+#: includes/class-evf-ajax.php:155
+msgid "Blank Form"
+msgstr "空白表单"
+
+#: includes/admin/views/html-admin-page-builder.php:56
+msgid "Save"
+msgstr "保存"
+
+#: includes/admin/class-evf-admin-assets.php:145
+msgid "Are you sure you want to delete this row?"
+msgstr "您确定要删除这一行吗?"
+
+#: includes/admin/class-evf-admin-assets.php:131
+msgid "field"
+msgstr "字段"
+
+#: includes/admin/class-evf-admin-assets.php:139
+#: includes/admin/class-evf-admin-assets.php:194
+#: includes/admin/class-evf-admin-editor.php:98
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/admin/class-evf-admin-editor.php:71
+msgid "Select a form below to insert"
+msgstr "选择下面的表格进行插入"
+
+#: includes/admin/class-evf-admin-assets.php:138
+#: includes/admin/class-evf-admin-editor.php:63
+msgid "Close"
+msgstr "关闭"
+
+#: includes/admin/class-evf-admin-editor.php:62
+msgid "Insert Form"
+msgstr "插入表单"
+
+#: includes/admin/class-evf-admin-editor.php:44
+#: includes/admin/class-evf-admin-editor.php:102
+msgid "Add Form"
+msgstr "添加表单"
+
+#: includes/admin/class-evf-admin-editor.php:42
+msgid "Add Everest Form"
+msgstr "添加Everest Form"
+
+#: includes/abstracts/class-evf-form-fields.php:1738
+msgid "Please enter a valid number"
+msgstr "请输入一个有效的数字"
+
+#: includes/abstracts/class-evf-form-fields.php:1733
+msgid "Please enter a valid email address"
+msgstr "请输入有效的电邮地址"
+
+#: includes/abstracts/class-evf-form-fields.php:1723
+msgid "Please enter a valid url"
+msgstr "请输入一个有效的url"
+
+#: includes/class-evf-frontend-scripts.php:311
+#: includes/admin/settings/class-evf-settings-validation.php:52
+#: includes/evf-core-functions.php:1496
+msgid "This field is required."
+msgstr "此项为必填项。"
+
+#: includes/abstracts/class-evf-form-fields.php:1486
+#: includes/admin/class-evf-admin-menus.php:164
+#: includes/admin/builder/class-evf-builder-settings.php:25
+#: includes/admin/builder/class-evf-builder-fields.php:325
+#: includes/class-evf-install.php:637
+msgid "Settings"
+msgstr "设置"
+
+#: includes/abstracts/class-evf-form-fields.php:1485
+#: includes/admin/builder/class-evf-builder-fields.php:324
+msgid "Delete Field"
+msgstr "删除字段"
+
+#: includes/abstracts/class-evf-form-fields.php:1484
+#: includes/admin/builder/class-evf-builder-fields.php:323
+msgid "Duplicate Field"
+msgstr "复制字段"
+
+#: includes/abstracts/class-evf-form-fields.php:1455
+msgid "No field type found"
+msgstr "没有找到字段类型"
+
+#: includes/abstracts/class-evf-form-fields.php:1450
+msgid "No form ID found"
+msgstr "没有找到表单ID"
+
+#: includes/abstracts/class-evf-form-fields.php:1445
+msgid "You do no have permission."
+msgstr "你没有得到允许。"
+
+#: includes/abstracts/class-evf-form-fields.php:1204
+#: includes/evf-core-functions.php:1983
+msgid "Hide Sub-Labels"
+msgstr "隐藏子标签"
+
+#: includes/abstracts/class-evf-form-fields.php:1195
+#: includes/evf-core-functions.php:1985
+msgid "Check this option to hide the form field sub-label."
+msgstr "选中此选项可隐藏表单字段子标题。"
+
+#: includes/abstracts/class-evf-form-fields.php:1174
+#: includes/evf-core-functions.php:1975
+msgid "Hide Label"
+msgstr "隐藏标签"
+
+#: includes/abstracts/class-evf-form-fields.php:1165
+#: includes/evf-core-functions.php:1977
+msgid "Check this option to hide the form field label."
+msgstr "选中此选项可隐藏表单字段标题。"
+
+#: includes/abstracts/class-evf-form-fields.php:1134
+#: includes/evf-core-functions.php:1967
+msgid "CSS Classes"
+msgstr "CSS类"
+
+#: includes/evf-core-functions.php:1968
+msgid "Enter CSS class for this field container. Class names should be separated with spaces."
+msgstr "输入此字段容器的CSS类。 类名应该用空格分隔."
+
+#: includes/abstracts/class-evf-form-fields.php:1095
+#: includes/evf-core-functions.php:1959
+msgid "Placeholder Text"
+msgstr "占位符文本"
+
+#: includes/abstracts/class-evf-form-fields.php:1089
+#: includes/evf-core-functions.php:1960
+msgid "Enter text for the form field placeholder."
+msgstr "输入表单字段占位符文本。"
+
+#: includes/abstracts/class-evf-form-fields.php:1077
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#: includes/abstracts/class-evf-form-fields.php:1031
+msgid "Default Value"
+msgstr "默認值"
+
+#: includes/abstracts/class-evf-form-fields.php:1024
+msgid "Enter text for the default form field value."
+msgstr "输入默认表单字段值的文本。"
+
+#: includes/abstracts/class-evf-form-fields.php:723
+#: includes/evf-core-functions.php:1947
+msgid "Choices"
+msgstr "选择"
+
+#: includes/abstracts/class-evf-form-fields.php:747
+#: includes/evf-core-functions.php:1948
+msgid "Add choices for the form field."
+msgstr "为表单字段添加选项。"
+
+#: includes/shortcodes/class-evf-shortcode-form.php:189
+#: includes/abstracts/class-evf-form-fields.php:506
+#: includes/admin/settings/class-evf-settings-validation.php:46
+#: includes/evf-core-functions.php:1939
+msgid "Required"
+msgstr "必需"
+
+#: includes/evf-core-functions.php:1941
+msgid "Check this option to mark the field required."
+msgstr "选中此选项可标记所需的字段."
+
+#: includes/abstracts/class-evf-form-fields.php:468
+#: includes/evf-core-functions.php:1931
+msgid "Description"
+msgstr "描述"
+
+#: includes/abstracts/class-evf-form-fields.php:462
+#: includes/evf-core-functions.php:1933
+msgid "Enter text for the form field description."
+msgstr "输入表单字段描述文本。"
+
+#: includes/abstracts/class-evf-form-fields.php:395
+#: includes/evf-core-functions.php:1915
+msgid "Label"
+msgstr "标签"
+
+#: includes/abstracts/class-evf-form-fields.php:304
+msgid "Off"
+msgstr "关闭"
+
+#: includes/abstracts/class-evf-form-fields.php:304
+msgid "On"
+msgstr "开启"
+
+#. Author URI of the plugin
+msgid "https://wpeverest.com"
+msgstr "https://wpeverest.com"
+
+#. Author of the plugin
+msgid "WPEverest"
+msgstr "WPEverest"
+
+#. Plugin URI of the plugin
+msgid "https://wpeverest.com/wordpress-plugins/everest-forms/"
+msgstr "https://wpeverest.com/wordpress-plugins/everest-forms/"
+
+#: includes/log-handlers/class-evf-log-handler-file.php:343
+#: includes/log-handlers/class-evf-log-handler-file.php:363
+#: includes/evf-core-functions.php:294
+msgid "This method should not be called before plugins_loaded."
+msgstr "该方法应在 plugins_loaded 之前调用。"
+
+#. translators: %d: interval
+#: includes/abstracts/class-evf-background-process.php:172
+msgid "Every %d minutes"
+msgstr "每 %d 分钟"
+
+#: includes/fields/class-evf-field-textarea.php:20
+msgid "Paragraph Text"
+msgstr "段落文本"
+
+#: includes/fields/class-evf-field-select.php:32
+msgid "Option 2"
+msgstr "选项2"
+
+#: includes/fields/class-evf-field-select.php:27
+msgid "Option 1"
+msgstr "选项1"
+
+#: includes/fields/class-evf-field-last-name.php:20
+msgid "Last Name"
+msgstr "名"
+
+#: includes/fields/class-evf-field-first-name.php:20
+msgid "First Name"
+msgstr "姓"
+
+#: includes/fields/class-evf-field-checkbox.php:311
+#: includes/fields/class-evf-field-radio.php:242
+msgid "Check this to manually set form field values."
+msgstr "选中此项可手动设置表单字段值。"
+
+#: includes/fields/class-evf-field-checkbox.php:310
+#: includes/fields/class-evf-field-radio.php:241
+msgid "Show Values"
+msgstr "显示值"
+
+#: includes/fields/class-evf-field-checkbox.php:39
+#: includes/fields/class-evf-field-radio.php:39
+#: includes/evf-core-functions.php:1954
+msgid "Third Choice"
+msgstr "第三选择"
+
+#: includes/fields/class-evf-field-checkbox.php:33
+#: includes/fields/class-evf-field-radio.php:33
+#: includes/evf-core-functions.php:1953
+msgid "Second Choice"
+msgstr "第二选择"
+
+#: includes/fields/class-evf-field-checkbox.php:27
+#: includes/fields/class-evf-field-radio.php:27
+#: includes/evf-core-functions.php:1952
+msgid "First Choice"
+msgstr "第一选择"
+
+#: includes/fields/class-evf-field-checkbox.php:20
+#: includes/fields/class-evf-field-payment-checkbox.php:20
+msgid "Checkboxes"
+msgstr "复选框"
+
+#: includes/evf-notice-functions.php:23 includes/evf-notice-functions.php:54
+#: includes/evf-notice-functions.php:73 includes/evf-notice-functions.php:97
+#: includes/evf-notice-functions.php:110 includes/evf-notice-functions.php:125
+#: includes/evf-notice-functions.php:185
+msgid "This function should not be called before everest_forms_init."
+msgstr "不应在everest_forms_init之前调用此函数."
+
+#. translators: 1: class name 2: everest_forms_logging_class 3:
+#. EVF_Logger_Interface
+#: includes/evf-core-functions.php:555
+msgid "The class %1$s provided by %2$s filter must implement %3$s."
+msgstr "过滤器 %2$s 提供的类 %1$s  必须实现 %3$s。"
+
+#. translators: %s template
+#: includes/evf-core-functions.php:103
+msgid "%s does not exist."
+msgstr "%s 不存在。"
+
+#: includes/class-evf-post-types.php:70
+msgid "This is where you can add new forms."
+msgstr "在这里可以添加新表格。"
+
+#: includes/class-evf-post-types.php:66
+msgid "Forms list"
+msgstr "表单列表"
+
+#: includes/class-evf-post-types.php:65
+msgid "Forms navigation"
+msgstr "表单导航"
+
+#: includes/class-evf-post-types.php:64
+msgid "Filter forms"
+msgstr "筛选表单"
+
+#: includes/class-evf-post-types.php:63
+msgid "Uploaded to this form"
+msgstr "上传到此表单"
+
+#: includes/class-evf-post-types.php:62
+msgid "Insert into form"
+msgstr "插入表单"
+
+#: includes/class-evf-post-types.php:61
+msgid "Use as form image"
+msgstr "用作表单图像"
+
+#: includes/class-evf-post-types.php:60
+msgid "Remove form image"
+msgstr "删除表单图像"
+
+#: includes/class-evf-post-types.php:59
+msgid "Set form image"
+msgstr "设置表单图像"
+
+#: includes/class-evf-post-types.php:58
+msgid "Form image"
+msgstr "表单图片"
+
+#: includes/class-evf-post-types.php:57
+msgid "Parent forms"
+msgstr "父级表单"
+
+#: includes/class-evf-post-types.php:56
+msgid "No forms found in trash"
+msgstr "回收站没有发现表单"
+
+#: includes/class-evf-post-types.php:55
+msgid "No forms found"
+msgstr "找不到任何表格"
+
+#: includes/class-evf-post-types.php:54
+msgid "Search forms"
+msgstr "搜索表单"
+
+#: includes/class-evf-post-types.php:53
+msgid "View form"
+msgstr "查看"
+
+#: includes/class-evf-post-types.php:52
+msgid "New form"
+msgstr "新表单"
+
+#: includes/class-evf-post-types.php:51
+msgid "Edit form"
+msgstr "编辑表单"
+
+#: includes/class-evf-post-types.php:49
+msgid "Add new form"
+msgstr "添加到表格"
+
+#: includes/class-evf-post-types.php:47
+msgctxt "Admin menu name"
+msgid "Forms"
+msgstr "表单"
+
+#: includes/class-evf-post-types.php:45 includes/class-evf-form-block.php:87
+msgid "Form"
+msgstr "表单"
+
+#: includes/class-evf-post-types.php:44
+msgid "Forms"
+msgstr "表单"
+
+#. translators: 1: EVF_Logger::log 2: level
+#: includes/class-evf-logger.php:133
+msgid "%1$s was called with an invalid level \"%2$s\"."
+msgstr "%1$s 被使用一个无效的级别“%2$s” 调用。"
+
+#. translators: 1: class name 2: EVF_Log_Handler_Interface
+#: includes/class-evf-logger.php:54
+msgid "The provided handler %1$s does not implement %2$s."
+msgstr "提供的处理程序 %1$s 没有实现 %2$s。"
+
+#: includes/class-evf-install.php:654
+msgid "Visit free customer support"
+msgstr "访问免费客户支持"
+
+#: includes/class-evf-install.php:653
+msgid "Docs"
+msgstr "文档"
+
+#: includes/class-evf-install.php:653
+msgid "View Everest Forms documentation"
+msgstr "查看Everest Forms文档"
+
+#: includes/class-evf-install.php:637
+msgid "View Everest Forms Settings"
+msgstr "查看 Everest Forms 设置"
+
+#: includes/class-evf-install.php:301
+msgid "Monthly"
+msgstr "月度"
+
+#: includes/class-evf-privacy.php:80
+msgid "Payments"
+msgstr "支付"
+
+#. translators: %s - form name.
+#: includes/class-evf-form-task.php:580
+msgid "New %s Entry"
+msgstr "新的 %s 条目"
+
+#: includes/class-evf-form-task.php:166 includes/class-evf-form-task.php:218
+#: includes/class-evf-form-task.php:267
+msgid "Form has not been submitted, please see the errors below."
+msgstr "表格尚未提交，请参阅以下错误。"
+
+#: includes/class-evf-form-task.php:98
+msgid "Invalid form. Please check again."
+msgstr "无效表单。请再检查一遍。"
+
+#: includes/class-evf-form-task.php:92
+msgid "We were unable to process your form, please try again."
+msgstr "我们无法处理您的表单, 请重试."
+
+#: includes/class-evf-emails.php:567
+msgid "An empty form was submitted."
+msgstr "已提交空表单。"
+
+#. translators: %d - field ID.
+#: includes/class-evf-emails.php:513 includes/class-evf-emails.php:555
+msgid "Field ID #%d"
+msgstr "字段ID＃%d"
+
+#: includes/abstracts/class-evf-form-fields.php:1340
+#: includes/class-evf-emails.php:434 includes/class-evf-emails.php:539
+msgid "(empty)"
+msgstr "（空）"
+
+#: includes/class-evf-emails.php:317
+msgid "You cannot send emails with EVF_Emails until init/admin_init has been reached"
+msgstr "在到达init/admin_init之前，您不能发送带有EVF_Emails的电子邮件"
+
+#. translators: 1: key 2: URL
+#: includes/class-evf-cache-helper.php:81
+msgid "In order for <strong>database caching</strong> to work with Everest Forms you must add %1$s to the \"Ignored Query Strings\" option in <a href=\"%2$s\">W3 Total Cache settings</a>."
+msgstr "为了使<strong>数据库缓存</strong>能够与 Everest Forms 协同工作，您必须将 %1$s 添加到<a href=\"%2$s\">W3 Total Cache 设置</a>中的“忽略的查询字符串”选项中。"
+
+#: includes/class-evf-ajax.php:195
+msgid "No data provided"
+msgstr "没有提供数据"
+
+#: includes/class-evf-ajax.php:190
+msgid "You do not have permission."
+msgstr "你没有许可。"
+
+#: includes/class-evf-ajax.php:177
+msgid "Something went wrong, please try again later"
+msgstr "有问题，请稍后再试"
+
+#: includes/class-evf-ajax.php:125
+msgid "Invalid form"
+msgstr "无效表单"
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Taking a while? Click here to run it now."
+msgstr "需要一段时间？现在点击这里运行它。"
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Your database is being updated in the background."
+msgstr "您的数据库正在后台更新。"
+
+#: includes/admin/views/html-notice-updated.php:14
+msgid "Everest Forms data update complete. Thank you for updating to the latest version!"
+msgstr "Everest Forms数据更新完成。感谢您更新到最新版本！"
+
+#: includes/admin/views/html-notice-update.php:31
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "强烈建议您在继续之前备份你的数据库。你现在确定要运行更新程序?"
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Everest Forms data update"
+msgstr "Everest Forms数据更新"
+
+#: includes/admin/views/html-notice-updated.php:12
+#: includes/admin/views/html-notice-custom.php:12
+msgid "Dismiss"
+msgstr "取消"
+
+#: includes/admin/views/html-admin-settings.php:42
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: includes/admin/views/html-admin-page-tools.php:16
+msgid "Logs"
+msgstr "日志"
+
+#: includes/admin/views/html-admin-page-tools-logs.php:42
+msgid "There are currently no logs to view."
+msgstr "暂无日志可看."
+
+#: includes/admin/views/html-admin-page-entries-view.php:204
+#: includes/admin/views/html-admin-page-tools-logs.php:33
+#: includes/admin/class-evf-admin-entries-table-list.php:297
+msgid "View"
+msgstr "浏览"
+
+#: includes/admin/views/html-admin-page-tools-logs.php:17
+msgid "Delete log"
+msgstr "删除日志"
+
+#: includes/admin/class-evf-admin-forms.php:167
+msgid "Search Forms"
+msgstr "搜索表单"
+
+#: includes/fields/class-evf-field-number.php:290
+#: includes/admin/settings/class-evf-settings-validation.php:106
+msgid "Please enter a valid number."
+msgstr "请输入一个有效的数字。"
+
+#: includes/admin/settings/class-evf-settings-validation.php:101
+msgid "Enter the message for the valid number"
+msgstr "输入有效号码的消息"
+
+#: includes/fields/class-evf-field-number.php:20
+#: includes/admin/settings/class-evf-settings-validation.php:100
+msgid "Number"
+msgstr "数字"
+
+#: includes/fields/class-evf-field-email.php:400
+#: includes/admin/settings/class-evf-settings-validation.php:70
+msgid "Please enter a valid email address."
+msgstr "请输入正确的电子邮件地址。"
+
+#: includes/admin/settings/class-evf-settings-validation.php:65
+msgid "Enter the message for the valid email"
+msgstr "输入有效电子邮件的消息"
+
+#: includes/admin/settings/class-evf-settings-validation.php:61
+msgid "Please enter a valid URL."
+msgstr "请输入一个正确的 URL。"
+
+#: includes/admin/settings/class-evf-settings-validation.php:56
+msgid "Enter the message for the valid website url"
+msgstr "输入有效网站网址的消息"
+
+#: includes/admin/settings/class-evf-settings-validation.php:55
+msgid "Website URL"
+msgstr "网址"
+
+#: includes/admin/settings/class-evf-settings-validation.php:47
+msgid "Enter the message for the required form field"
+msgstr "输入所需表单字段的消息"
+
+#: includes/admin/settings/class-evf-settings-validation.php:40
+msgid "Validation Messages"
+msgstr "验证消息"
+
+#: includes/admin/settings/class-evf-settings-validation.php:25
+msgid "Validations"
+msgstr "验证"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:72
+#: includes/admin/settings/class-evf-settings-recaptcha.php:92
+#: includes/admin/settings/class-evf-settings-recaptcha.php:120
+msgid "Secret Key"
+msgstr "密匙"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:62
+#: includes/admin/settings/class-evf-settings-recaptcha.php:82
+#: includes/admin/settings/class-evf-settings-recaptcha.php:110
+msgid "Site Key"
+msgstr "网站密钥"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:25
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: includes/class-evf-form-task.php:300 includes/templates/contact.php:61
+msgid "Thanks for contacting us! We will be in touch with you shortly."
+msgstr "谢谢您联络我们！我们会尽快与您联系。"
+
+#: includes/admin/settings/class-evf-settings-general.php:40
+msgid "General Options"
+msgstr "常规选项"
+
+#: includes/admin/builder/class-evf-builder-settings.php:546
+msgid "{all_fields}"
+msgstr "{all_fields}"
+
+#: includes/admin/builder/class-evf-builder-settings.php:544
+msgid "Email Message"
+msgstr "邮件内容"
+
+#: includes/admin/class-evf-admin-assets.php:197
+msgid "New Form Entry"
+msgstr "新表单条目"
+
+#: includes/admin/builder/class-evf-builder-settings.php:525
+msgid "Email Subject"
+msgstr "邮件主题"
+
+#: includes/admin/builder/class-evf-builder-settings.php:489
+msgid "From Address"
+msgstr "寄件人地址"
+
+#: includes/admin/builder/class-evf-builder-settings.php:471
+msgid "From Name"
+msgstr "发件人"
+
+#: includes/admin/builder/class-evf-builder-settings.php:417
+msgid "To Address"
+msgstr "至: 地址"
+
+#: includes/shortcodes/class-evf-shortcode-form.php:62
+#: includes/class-evf-frontend-scripts.php:282
+#: includes/class-evf-frontend-scripts.php:309
+#: includes/admin/builder/class-evf-builder-settings.php:261
+#: includes/templates/contact.php:67
+msgid "Submit"
+msgstr "确定"
+
+#: includes/admin/builder/class-evf-builder-settings.php:259
+msgid "Submit button text"
+msgstr "提交按钮文字"
+
+#: includes/admin/builder/class-evf-builder-settings.php:246
+msgid "Form Class"
+msgstr "表单类"
+
+#: includes/admin/builder/class-evf-builder-settings.php:237
+msgid "Classic Layout"
+msgstr "经典布局"
+
+#: includes/admin/builder/class-evf-builder-settings.php:236
+msgid "Default"
+msgstr "默认"
+
+#: includes/admin/builder/class-evf-builder-settings.php:231
+msgid "Layout Design"
+msgstr "布局设计"
+
+#: includes/admin/builder/class-evf-builder-settings.php:201
+#: includes/admin/builder/class-evf-builder-settings.php:221
+msgid "External URL"
+msgstr "外部链接"
+
+#: includes/admin/builder/class-evf-builder-settings.php:200
+#: includes/admin/builder/class-evf-builder-settings.php:210
+msgid "Custom Page"
+msgstr "自定义页面"
+
+#: includes/admin/builder/class-evf-builder-settings.php:199
+msgid "Same Page"
+msgstr "同一页"
+
+#: includes/admin/builder/class-evf-builder-settings.php:193
+msgid "Redirect To"
+msgstr "重定向到"
